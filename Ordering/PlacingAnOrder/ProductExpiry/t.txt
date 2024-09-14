@@ -1,0 +1,34 @@
+Product Expiry
+
+Certain category products (Consumables, Beauty, Health & Personal Care, Baby) sold on the website have an expiry date mentioned. Before purchasing, you can find the expiration date on product page.
+
+On the product, expiry date may be printed directly in MM/YY or DD/MM/YY format or as 'Best before X months' or 'Use by'
+Note: If you've received an expired product, you can contact us within 5 days from the delivery of the product.
+
+
+
+
+Category of products near to expiry:
+
+Amazon may issue refund/replacement for the product near to expiry as per our returns policy. Please check the Manufacturing Date/Packaging Date & Expiry Date information on item packaging. Refer to the table below in order to calculate the expiration date of the product delivered.
+Note: If the product has more shelf life than described in the table below then it is not considered as an expired item.
+Category 	Criteria
+
+Grocery
+
+60 days or 15% of shelf life whichever is lesser (Eg: Shelf life is 180 days, then if the product is 27 days (min of 15% of 180 = 27 or 60) away from expiry date, then it is considered as near to expiry
+
+
+Drugstore
+
+60 days or 25% of shelf life whichever is lesser (Eg: Shelf life is 250 days, then if the product is 60 days (min of 25% of 250 = 62.5 or 60) away from expiry date, then it is considered as near to expiry
+
+
+Fresh/ Pantry
+
+For < 5 months shelf life: 30% of shelf life or 45 days whichever is lower (Eg: Shelf life is 30 days, then if the product is 9 days (min of 30% of 30 = 9 or 45) away from expiry date, then it is considered as near to expiry
+
+
+Other Products with usable shelf life
+
+For > 5 months shelf life : 15 % or 60 days whichever is lower (Eg: Shelf life is 180 days, then if the product is 27 days (min of 15% of 180 = 27 or 60) away from expiry date, then it is considered as near to expiry product

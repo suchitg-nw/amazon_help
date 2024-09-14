@@ -1,0 +1,68 @@
+1. What should I do if my Bluetooth headset is not showing up on my mobile phone?
+Check if the Bluetooth feature is enabled/turned ON on both the devices.
+Use your phone to scan for the headset.
+Check and ensure the headset and your device are compatible. This may involve checking the packaging, user manuals and the internet.
+Delete all paired devices from the mobile, scan for the headset again and pair both the devices.
+2. How do I connect a phone to a wireless headset?
+Go to the Bluetooth settings on your phone.
+Scan for devices.
+Select your headset.
+Connect or pair the devices.
+3. What can I do when the headset says the pair list is full?
+Go to the pairing list on your phone and try to delete one or more devices from the list.
+Scan again and pair both the devices.
+4. What should I do if my Bluetooth headset's name is not showing up on my phone, but the headset blinks blue?
+Restart the headset and your phone once. Try connecting the phone to the headset now.
+If the restart does not work and if you have paired it with the phone before, delete the headset from the paired devices list and try reconnecting to it.
+If it still does not work, then reset your Bluetooth headphones and try pairing once again.
+5. Why won't my Bluetooth headset connect with my phone?
+Make sure the Bluetooth on your phone is ON.
+Make sure the headset is ready to pair.
+Go to Bluetooth on your phone and open it.
+Search for your headset name and click on it.
+Click Connect.
+If it still does not work then reset your Bluetooth headphones and pair.
+
+Restart your mobile device so the software will be refreshed and will recognise the Bluetooth headphone to pair them successfully.
+
+6. I am using a Samsung Grand Prime G531, but the Bluetooth headphone is not connected. This headphone will connect to other mobile phones without issues. How do I make it connect to the Samsung?
+Some wireless Bluetooth headphones can only connect to a certain type of phone. Look at the box and read the paper inside to see if your phone is compatible to your Samsung Grand Prime G531. If it says it is compatible, then look at the instructions as Bluetooth headphones sometimes connect instantly and sometimes need to be set up manually.
+
+7. What should I do if I don't know the password/passcode for the headset?
+This code is either "0000", "1234", "9999" or "0001" for majority of headsets. If none of those work, try the last 4 digits of your headset's serial number (found underneath the battery, labeled as "s/n" or "serial number").
+
+8. What should I do if I cannot hear any sound from my headset while connected to laptop/computer or cannot hear audio from one side of the headset or one part of earphone is working while other is not?
+You could try the following solutions:
+
+Plug in the headset firmly.
+Make sure that your headphones are firmly plugged into the headphone jack of the source device.
+If your player or audio device has more than one connection jack, make sure the headphones aren't connected to an audio-in or microphone jack.
+Check if headset fit properly over the head and ears.
+Unmute the source device volume.
+If you are using Windows laptop/computer.
+Select the Speaker icon on the taskbar.
+Adjust the Volume slider to unmute it.
+If you are using Apple laptop/computer.
+From the Apple menu, go to System Preferences > Sound.
+Select the Output tab, then select Internal Speakers.
+Deselect Mute checkbox to unmute it.
+Try increasing the volume on both the devices.
+If you are using extension cable to connect your headset, disconnect the extension cable and directly connect your headset to the source device.
+Try connecting the headset to another device to make sure they are working.
+Configure the headset.
+Press the Start button and open Control Panel on your computer.
+Click Hardware and Sound > Sound.
+Select Headset/Headphones on the Playback tab.
+Click Set Default > OK.
+9. What to do if my headset microphone is not working when connected to my computer/laptop?
+Allow access to headset access
+Click Start > Settings > Privacy > Microphone.
+Click the Change button, then make sure Microphone for this device is turned ON.
+Note: Make sure Allow apps to access your microphone is turned ON.
+Configure the headset:
+Press Start button and open Control Panel on your computer
+Click Hardware and Sound > Sound.
+Select Headset/Headphones on the Playback tab
+Click Set Default > OK
+10. What to do if my headset does not work even after charging or if my headset is taking too long to charge?
+Few headsets like One Plus need wrap charge, please check the product detail page for these details. The headset needs to be completely charged when newly bought. Please refer to respective brand website/product detail page to get details on how many hours the headset needs to be charged for it be 100% fully charged.

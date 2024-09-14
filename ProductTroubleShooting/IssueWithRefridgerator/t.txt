@@ -1,0 +1,116 @@
+1. What should I do if I am unable to turn on my refrigerator (no power)?
+Check if the refrigerator is plugged into the unit properly. The outlet could be incompatible or faulty.
+
+Check if power supply is available in the outlet. Plug in another working electronic device and check if it working.
+Check the voltage requirements of the refrigerator and confirm that the outlet supplies the same voltage.
+Inspect the circuit breaker of the home and check for flipped switches, if the outlet is not working.
+Check for corroded wires in the refrigerator. To do this:
+Expose the back of the unit.
+Kneel down to access the compressor and the overload protector. The overload protector is a small metal box that has wires going inside.
+Pull of the cover of the overload protector and inspect the wire connections for corrosion.
+2. What should I do if I feel an electric shock whenever I touch the refrigerator?
+It might be a static electric shock. It occurs more often when the weather is dry, and the intensity of the shock differs by people.
+Make sure the outlet connected to the refrigerator is grounded.
+3. What should I do if my unit is cycling too often?
+There could be buildup of dust/debris around condenser coils. Clean the condenser coils.
+
+Check the user manual of the refrigerator to find the exact location of the condenser as it may vary by brand and model.
+Turn OFF the refrigerator.
+Remove the dust with a vacuum cleaner set to low or a soft brush.
+Set the refrigerator temperature at or below 4 degrees Celsius.
+4. What should I do if my refrigerator is not cooling properly?
+1. Temperature may be set too high. Adjust the thermostat to a lower temperature and load in the refrigerator. Check if the issue persists after 4 hours.
+2. Sensor that controls the freezer temperature could be being blocked -
+Remove any blockage (food, debris) from around the sensor.
+Make sure air is permitted to flow freely.
+Thick ice formation could be acting like insulation -
+Turn OFF the refrigerator.
+Defrost the freezer overnight to fix the issue.
+Check the ambient temperature. Refrigerators are designed to operate with ambient temperature of lower than 43 degrees Celsius.
+There could be accumulation of dust on the condenser coils. Clean the condenser coils.
+Try using a voltage stabilizer.
+Check if any part of the refrigerator is covered in plastic.
+5. What should I do if my refrigerator is cooling too much?
+Check the vents on the back of the freezer compartment. Clear any food items blocking the air vents and air flow paths.
+Find the thermostat knob and the air flow control knob. Set them both for a mid range.
+Allow the refrigerator to adjust to the new settings for 24 hours.
+Avoid excessive opening and closing of the refrigerator during that time.
+6. What should I do if the water is leaking inside my refrigerator?
+This could be because the Refrigerator is positioned incorrectly. Water (actually condensation) is supposed to run from inside the refrigerator into a drain hole, and then into a drip pan underneath, where it evaporates. If the refrigerator is completely level or tipped slightly forward, the water will not be able to flow into the pan.
+Adjust the front legs of the refrigerator so that it tips back slightly. The tilt also makes the door swing closed after you turn away from the refrigerator.
+
+It can be a due to the defrost drain.
+Locate the drain tubes at the rear of the refrigerator or freezer.
+Push a small plastic tube or a pipe cleaner through the tubes.
+Pour a mild solution of soapy water to kill bacteria.
+Refrigerator is not cleaned.
+7. What should I do if the water is leaking from the back of my refrigerator?
+Remove the water filter and reinstall it. Refer to user manual of the refrigerator for instructions as the method may vary as per brand and model.
+Defrost drain is clogged.
+Unplug the refrigerator and pull it away from the wall.
+Open the refrigerator and locate the drain hole (typically found at the bottom. Refer to the user manual for if you have difficulty finding the drain hole for your particular model.
+Loosen the clog using a long, slender tube.
+Drain the hole from the inside by pouring about 2 cups of hot water slowly.
+Locate the drain pan under your refrigerator in which the drain tube empties.
+Remove the refrigerator's front grill plate.
+Place a towel at the base of the fridge to catch any spills.
+Clean the pan of any other residue, and return it to its original position.
+Replace the front grill plate and plug in the refrigerator.
+Push the refrigerator back into its spot.
+8. What should I do if my refrigerator is making unusual noises?
+The evaporator fan could be faulty. Check if the noise is coming from the freezer area.
+Make sure the condenser fan is clean and spinning freely. To do so:
+Unplug the fridge. Refer to the user manual of the refrigerator to find the exact location of the condenser fan.
+Clean the fan blades with a clean, dry cloth.
+Spin the fan by hand to check if it's stuck.
+Plug in the fridge and check if the noise has stopped.
+The timer could be faulty. The defrost timer is located at the bottom of the refrigerator near the front.
+The compressor could be faulty. Check if the noise if coming from the back of the fridge where the compressor is located.
+Check if the drain pan under the fridge is loose. Remove the drain pan. Secure the drain pan back in place and check if the issue is resolved.
+Note: Sometimes there are certain operational sounds that a refrigerator can make and are no cause for concern. No troubleshooting is required in such cases.
+If the following sounds are observed, it is normal. Popping sounds can be heard when pipes and the internal evaporator in the refrigerator compartment expand and contract as the temperature changes during the refrigerator operation.
+A "clunk" sound can be heard sometimes from the vibration of the motor and piston in the compressor when it starts and finishes.
+When the refrigerator stops, a water flowing sound may be heard. This sound occurs when liquid vapor refrigerant flows from the evaporator to the compressor.
+9. What should I do if my refrigerator door does not open or close properly?
+Check inside the refrigerator to ensure there aren't any food containers, open crisper drawers or misaligned shelves that could keep the door from closing properly.
+Clean the refrigerator door gaskets with warm, soapy water and a soft cloth. You could make a mixture with 1 quart of warm water and 1 tbsp of baking soda to clean the gasket.
+Ensure the refrigerator is level from front to back and side to side if the door still does not close properly.
+10. What should I do if there is a bad smell in the refrigerator?
+Clean the inside compartments of the refrigerator with a clean, wet towel frequently.
+Keep some orange or lemon sheets in the refrigerator. You could also deodorize with freshly ground coffee or baking soda. Leave an open container of baking soda in the fridge to absorb refrigerator smell for at least 24 hours.
+Make sure food is cooled to room temperature before refrigerating food.
+11. What should I do if the ice-cream is too soft even when in the freezer?
+Adjust temperature control to maximum setting.
+Put the freezer control knob at maximum position.
+Let the refrigerator operate for 24 hours after adjustment to check if temperature falls.
+Repeat until the freezer is cold enough.
+Avoid placing the refrigerator in an area with direct sunlight
+12. What should I do if the freezer is not cold enough?
+Wait for 24 hours after the refrigerator is turned on for the first time for the temperature to stabilize. The best judge of freezer temperature is ice cream. Ice cream should be frozen but "spoonable". If not to your satisfaction, the freezer control can be set to a cooler setting.
+
+Adjust temperature control to maximum setting.
+Put the freezer control knob at maximum position.
+Let the refrigerator operate for 24 hours after adjustment to check if the temperature falls.
+Avoid placing the refrigerator in an area with direct sunlight.
+13. What should I do if there is a sheet of ice on the freezer floor?
+If are seeing an ice sheet at the bottom of the freezer, your drain is blocked. When the unit goes into defrost, the moisture will fall into a drain that runs under the unit to a pan where it evaporates. If the drain becomes blocked, each time the unit defrosts, it adds a layer of ice.
+
+Take the food out if the refrigerator.
+Unplug the fridge.
+Let the refrigerator defrost.
+14. What should I do if the water dispenser in my refrigerator is not working?
+Water tube on the door could be frozen. Thaw out the water tube.
+
+Find the exact location of the water tube from the user manual as it may vary as per brand and model.
+Disconnect the water tube. Blow air through it.
+Observe if the air passes through. If it does not, then the tube is frozen.
+Thaw out the water tube
+Make sure the freezer is set between -17 to - 12 degrees Celsius.
+Make sure the water pressure to the valve is has a pressure of minimum 20 psi.
+15. What should I do if I the ice maker in my refrigerator is overflowing?
+If the water pressure in the inlet valve is too low, it may not fully close when the power is shut off. This will result in the valve leaking water into the icemaker, causing the ice maker to overflow.
+
+Refer to the user manual of your unit and find the exact location of the water inlet valve.
+Check if there are any breaks or defects in the water inlet valve.
+Make sure the water inlet valve is not stuck or open.
+Make sure the water pressure is at least 20 psi.

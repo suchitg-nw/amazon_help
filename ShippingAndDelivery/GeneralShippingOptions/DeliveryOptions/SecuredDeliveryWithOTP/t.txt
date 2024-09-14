@@ -1,0 +1,21 @@
+An OTP adds an extra layer of security to your packages.
+
+What is Secure Delivery with OTP?
+
+Amazon delivery with OTP (One-time password) adds an extra layer of security to your packages. It is a six-digit number sent to your registered email address, when the package is Out for Delivery.- It is valid until the end of the delivery day.
+
+Will I get OTP for delivery of all my orders?
+
+No, only selected products on Amazon.in will require an OTP for successful delivery.
+
+I didn't get the OTP, where can I find it?
+
+You will receive the OTP in your registered email address. You can also find the OTP in tracking details of Your Order as displayed in the image below. If you are unable to locate the OTP at the time of delivery, request the delivery associate to resend it to your registered mobile number.
+
+When shall I share the OTP with Delivery Associate?
+
+Share the OTP with delivery associate in person at the time of Delivery Only. Do not share the OTP over phone. If you are not available to receive the package, you can share the OTP with someone you trust, so they can receive the package. We don't recommend sharing the OTP with an unknown person. If no one is available to receive the package, we will re-attempt the delivery on the next working day. Refer to Undeliverable Packages to know more.
+
+I placed an order for someone else, how will they get the OTP?
+
+If you placed an order for someone else, you can provide the recipient's mobile number while placing the order. This will ensure the recipient receives the OTP at the time of delivery.

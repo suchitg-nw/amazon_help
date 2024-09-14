@@ -1,0 +1,28 @@
+Release-Date Delivery
+Release-Date Delivery is a service that commits to delivering new releases to customers on the day of the release.
+
+Release-Date Delivery is available to addresses in the following locations:
+
+Ahmedabad	Bangalore	Belgaum
+Chandigarh	Chennai	Coimbatore
+Delhi	Faridabad	Goa
+Guntur	Gurgaon	Hyderabad
+Jaipur	Jalandhar	Jodhpur
+Kolhapur	Ludhiana	Madurai
+Mumbai	Mysore	Nagpur
+Nashik	Patiala	Pondicherry
+Pune	Rajkot	Salem
+Surat	Thane	Tiruchirappalli
+Udaipur	Vadodara	Vellore
+Vijayawada	Visakhapatnam	
+Order with Release Date Delivery
+To place an order with Release-Date Delivery:
+
+Select New Released and Pre-orders from the product categories.
+Go to the product description page.
+Select Pre-order.
+Select an eligible shipping address when prompted.
+Follow instructions and complete the order.
+Shipping charges, if applicable, for Release-Date Delivery are shown during checkout.
+
+When your order is shipped, we'll send you an SMS or email with the status of your order. For more information, see Track Your Package.

@@ -1,0 +1,172 @@
+TV Power Issues
+1. What should I do if I am unable to turn ON my TV (no power)?
+
+Refer below for possible solutions.
+
+There could be a technical glitch. Try to reset your TV
+Disconnect the power cord from the outlet, then press and hold the power button on the TV (not the remote), for at least 10 seconds.
+Wait a few minutes and plug the TV back in and press the power button.
+There could be a faulty wall outlet. Check the outlet and ensure the TV is receiving sufficient power and using a functioning wall outlet.
+Test the outlet by plugging in another functional electronic device.
+Avoid using a surge protector.
+Plug in the TV to another outlet even if the original outlet is functioning with other devices.
+The remote could be faulty. Check and replace the batteries in the remote, if required
+Use the power button on the side of the TV to determine if the problem is caused by the remote.
+Replace the batteries in the remote and check if you are able to turn on the TV.
+Capacitors on the power supply boards could be failing. Call an authorized technician
+2. What should I do if my TV turns OFF automatically?
+
+Refer below for possible solutions:
+
+The remote batteries could be low. Try replacing the remote batteries
+Note:
+Remotes can send conflicting infrared noise when the battery is low, which could result in your TV interpreting infrared noise from your remote as an "On/Off" command.
+
+There could be an issue with devices connected. Check the connected devices.
+Disconnect your TV from connected devices like set top box, gaming consoles or PCs.
+Connect the devices back to the TV one by one.
+Connect the devices back to the TV one by one.
+The TV’s timer must be enabled. Check and disable the timer.
+Press Menu on the remote to enter the settings screen.
+Choose System > Time > Sleep Timer.
+Check if there is a time range set.
+If there is a time range set, scroll to Off and press OK on the remote.
+Press the Exit button.
+Note: Terms may vary according to manufacturer and model. Please refer to the user manual of your TV for specific settings.
+3. What should I do if I cannot hear any audio from my TV or the volume is very low?
+
+Refer below for possible solutions:
+
+Volume of the TV could be low or is muted. Check and increase the volume of the TV.
+Connected device's volume could be low. Check the volume of the input device.
+Audio/Video (A/V) cables may not be connected to the correct ports
+Check if the set top box, laptop or PC is connected using an Audio/Video (A/V) cable connection.
+Make sure the A/V cables are securely connected to the appropriate video input on the TV.
+Headphones could be connected to the TV. Check and disconnect headphone, if connected.
+Analogue broadcasts need to be tuned. Tune the TV.
+Perform analogue broadcast tuning, if analogue broadcasts are used.
+Check the other input sources or playback content for sound issues.
+Note: If audio is heard from the analogue broadcasts, the TV speakers are working.
+Stereo settings could be configured incorrectly. Reconfigure the stereo settings.
+Go to Menu from the remote.
+Verify that the MTS settings of the TV are set to MAIN or STEREO.
+Check if the speakers are set to ON. If not, turn them ON.
+Turn OFF the Simulated effect in the Audio or Sound menu, if the TV has one.
+Increase the Volume to maximum value in the Volume Offset setting, if the TV has one.
+Check if the TV speakers are set as the Center speaker. Disable the same, if yes.
+Set the output to Audio Out in the Headphone/Audio Out settings, if the TV has one.
+Software could be outdated. Update the TV. Go to Manuals, Specifications and Warranty for specific instructions to update the software/firmware.
+Note: This may only be applicable to TVs with upgradable software/firmware. If the TV software version is up to date, proceed to the next troubleshooting step, otherwise perform software update first.
+Perform a perform reset
+Perform a power reset on the TV.
+Refer to the user manual for specific power reset instructions, if the remote does not have a RESET button.
+Reset the TV to original factory settings, if the power reset does not work.
+Refer to the user manual for instructions on factory reset.
+Audio Issues
+1. What should I do if the volume level is different from both the speaker?
+
+Software could be outdated. Go to Manuals, Specifications and Warranty for specific instructions to update the software/firmware.
+Note:
+This may only be applicable to TVs with upgradable software/firmware. If the TV software version is up to date, proceed to the next troubleshooting step, if not, perform software update first.
+
+Speaker balance could be configured incorrectly. To configure speaker balance:
+Go to the TV menu.
+Select At Zero or At Center on Speaker Balance.
+Perform a power reset on the TV.
+Refer to the user manual for specific power reset instructions, if the remote does not have a RESET button
+Reset the TV to original factory settings, if the power reset does not work.
+Refer to the user manual for instructions on factory reset.
+Picture Issues
+1. What should I do if there are multiple lines going up and down on my TV screen?
+
+There could be an issue with the TV.
+Press the HOME button on the remote to display the TV menu screen.
+Check if the same issue occurs on the menu screen. If yes,
+Restart the TVC and check if the issue is resolved.
+Turn off the TV and unplug the A/C power cord and leave it unplugged for 2 minutes.
+Plug in the AC power cord and turn on the TV to check if the issue is resolved.
+Check the connected devices like set top box, PC or IPTV for any issues if the menu screen has no issues.
+Interference from electrical or battery-operated devices in the periphery. Turn OFF any interference causing devices
+Spotty signal (only for antenna users). Adjust the antenna direction. Change the location of the antenna if adjusting the direction does not work.
+Note: If using an antenna, broadcast signals are reflected by nearby mountain or surrounding tall buildings and may cause ghosting in the picture
+The electrical outlet and/or surge protector could be faulty. Check and change the power outlet, if required. Plug in the TV power cord into a different electrical outlet. Replace the surge protector or extension cord, if using one.
+Note: These symptoms can occur if the electrical outlet is improperly wired or not producing the proper voltage. If using a surge protector or extension cord, it also could be faulty.
+2. What should I do if the picture on my TV screen is flickering?
+
+Refer below for possible solutions:
+
+Loose or failing connections inside the TV set. Follow the below steps.
+Change the source of the TV and check if the issue persists.
+Try a different cable (usually HDMI), your wire may not be working properly (or try the same cable on a different device and see if the problem persists).
+Check the video output settings of the device you're experiencing the problem with.
+Cables connecting to the source could be damaged. Check and change cables, if required.
+3. What should I do if I am unable to see picture or hear sound on my TV?
+
+Refer below for possible solutions:
+
+Ensure the TV is receiving sufficient power.
+Make sure the TV is plugged in securely to the outlet.
+Make sure the switch of the wall outlet is ON.
+For not getting picture:
+Reset all components by unplugging them for 5 minutes including the TV.
+Ensure all COAX CABLE and HDMI CABLES are tight and properly connected
+Note: This would mean that either a CABLE BOX, SAT BOX, COAX CABLE, HDMI CABLE, etc. may not be working properly, something is loose, or needs reset.
+To access the sound out setting:
+Open the settings menu either by using the button on your remote, or if your remote doesn't have a settings button, press the Home/Smart button, then click the settings icon.
+Navigate to the Audio/Sound menu.
+Choose sound out, then select TV speakers
+The outlet could be faulty. Check and change the outlet, if required.
+Switch to different inputs and check if issue gets resolved, if you do not know the correct input.
+Perform a power reset.
+Power cycle the TV.
+Unplug the TV for 10 minutes.
+Plug the TV back in.
+Connectivity issues
+1. What should I do if I am unable to connect my TV to my PC?
+
+The HDMI input selected on your TV could be incorrect.
+
+Connect HDMI lead to both TV and PC.
+Select the correct HDMI input on TV by pressing the AV button.
+If your PC does not automatically output its screen to the TV:
+Go to Control Panel > Display > Adjust Resolution.
+Select the TV option in the display drop down box.
+2. What should I do if I am unable to connect my TV to my wireless network?
+
+Refer below for possible solutions:
+
+There could be a connectivity issue with the WiFi router. Check if the issue is with the TV or the WiFi router.
+Connect the TV to another WiFi network or a mobile hotspot
+Contact your ISP if the TV is able to connect to another network or device as the issue is with the WiFi router or network.
+Contact the TV manufacturer for after sales service if the TV does not connect to any other network as the issue is with the TV.
+Wireless network may not be configured correctly. To reconfigure the wireless network:
+Connect the wireless adapter to the USB port on your TV.
+Press the menu button, and select Setup.
+Select the Network
+Note: If the network type is set to wired, change it to wireless.
+Select Network Setup and select the network.
+Allow the TV to scan for wireless networks in the area.
+Select the name of your network from the list.
+Allow the TV to connect to your wireless network
+Note: Most users will select Auto option for IP setup and DNS. If network requires you to put in a manual IP address and DNS server, enter those settings. Note: If the TV does not connects to a wireless network, adjust the IP address settings in Network Setup.
+Press the Return button to return to the Network Screen.
+Select Network Test.
+Follow the below steps if the connection fails:
+Check whether the correct network name (SSID) was chosen and the correct wireless encryption key was entered.
+Power OFF the TV and unplug the modem and router/access point and wait for approximately 30 seconds.
+Plug the modem and router/access point back IN and power the TV ON.
+Repeat the network test.
+3. What should I do if my TV's USB port is not detecting the external hard drive or pen drive?
+
+Refer below for possible solutions:
+
+Check whether the USB port supports playback.
+Plug in the HDD or pen drive.
+Check if there is a status message displayed saying "USB in service only"
+Note:
+The status means that the USB does not support playback and you will not be able to use it to stream from hard disks or pen drives.
+
+USB settings may not be configured correctly. To reconfigure the USB settings:
+Connect the USB device (HDD or pen drive) to the USB port with a cable. The TV should automatically recognize the external device and the menu should pop up.
+Select the USB device in the 'External input' option in the TV settings, if the device is not detected automatically.
+Select the content you want to watch and they will be played.

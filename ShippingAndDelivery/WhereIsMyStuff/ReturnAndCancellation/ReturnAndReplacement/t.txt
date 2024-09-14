@@ -1,0 +1,52 @@
+What can I return?
+You may request returns for most items listed on Amazon.in that are explicitly identified as "returnable" on the product detail page and/or our policy and within the 'return window' period. To know about the "non-returnable" categories and the specific return windows for categories eligible for return, please refer to the Amazon.in Returns policy.
+
+Products that are physically damaged, defective, has missing parts, or are different from their description in the product details page are eligible for return. Refer to the Damaged, Defective or Wrong Product - FAQ page for more information.
+
+What are non-returnable items?
+To know about the "non-returnable" categories and the specific return windows for categories eligible for return, please refer to the Amazon.in Returns policy .
+
+How to return an item:
+
+Sign in to Amazon.in
+Go to Your Orders.
+Choose an item that you want to return or replace.
+Select a reason from menu and continue.
+How to return an item that is a seller-fulfilled order:
+
+Products fulfilled by third-party sellers have the message "Sold and fulfilled by (seller name)" on the product detail page. For seller-fulfilled orders, you need to contact the seller to initiate returns. To do so:
+
+Note: If a seller fails to address your query in three business days, you can file an A-to-z Guarantee claim.
+For information on returning orders placed with a Third-party seller, refer to the Return orders placed with a Third-party seller Help page.
+
+What are the return guidelines?
+Your address and the item that you wish to return must be eligible for return.
+If the return is not eligible for Pickup, a Self-Return option will be provided. For more details, please check our Return Pick up and Self Ship Guidelines.
+Once the return is processed, you will, in accordance with Amazon.in Refund Policy, be issued a refund to your original payment method.
+Note: For Pay on Delivery orders, refunds will be processed either to your bank account (via National Electronic Funds Transfer (NEFT)) or to your Amazon account (as Amazon Pay balance).
+
+Where can I view status of return?
+
+Locate the item from Your Orders
+Select Return/Refund status
+How can I return a Gift?
+To initiate return, please visit the Gift Returns and enter the order number.
+
+For detailed guidance on return process, refer to Return a Gift page.
+
+For items eligible for refund as per return policy, you can also return the gift item in exchange for an Amazon Pay Gift Card, if the gift giver has sent a Gift Receipt to you. For guidance on returning a gift item using a gift receipt, please check Gift Receipts.
+
+Certain items (Smartphones, TV, Refrigerators, Washing machine, Laptops and so on.) are eligible only for replacement as per our return policy and will be replaced after the issue is verified.
+
+How can I return a Gift Card?
+Gift cards once purchased cannot be cancelled or returned due to regulatory restrictions.
+
+Please refer to Amazon Pay Gift Card page to know more about adding gift card balance to your account, redeeming a Gift card and restrictions.
+
+Can my order be replaced?
+Only  Fulfilled by Amazon, Prime eligible and few Seller Fulfilled items can be replaced.
+
+If the item delivered is physically damaged/ defective or is different from their description on the product detail page, or has missing parts or accessories, it will be eligible for a free replacement as long as the exact item is available with the same seller.
+
+I want the replacement to a different address.
+Replacement cannot be delivered to a different address. We recommend to return the item for a refund and place a new order with the new address.

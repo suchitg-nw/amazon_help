@@ -1,0 +1,23 @@
+Why did the payment fail?
+
+Here are some probable reasons:
+
+You entered incorrect credit or debit card details (e.g. name on the card, card number, CVV, 3D secure PIN and expiry date).
+In case of an American Express card, your transaction can fail if your billing address PIN code is incorrect.
+You closed or refreshed the page or went back to the previous page, while the transaction was being processed.
+We could not connect with your bank due to technical issues and the transaction could not be completed or Your bank is going through an outage.
+Your card may be blocked for online transactions.
+Per RBI update, customers who have not used their credit or debit cards for an online transaction (on Amazon or any other online merchant) previously or whose cards were issued on or before March 16, 2020, are required to contact their respective banks and get their credit or debit card activated for online transactions.
+
+Why was the payment pending?
+
+Here are some probable reasons:
+
+If you paid using net banking, we may be awaiting the payment confirmation from your bank. This can take up to a few days. For an immediate status, contact your bank.
+We may be unable to contact your bank or card issuer which can cause delay. If so, you'll receive an email from us.
+If your initial payment attempt was unsuccessful, your payment might stay in a pending stage.
+Note: If your payment is not successful, you'll see a message "We haven't received payment confirmation from your bank or credit card yet". In such cases, do not attempt paying again unless you have received an email from us or you are sure that your payment failed. The order will be auto cancelled if the payment is not completed within the timeline mentioned in the email. However, if you have accidentally paid twice, we'll refund the extra payment within a few days.
+RBI Rules:
+
+· If you have not given explicit consent to save your cards as per new RBI guidelines, Amazon will no longer store such cards.
+From September 30, 2022 onwards, one card can be saved as per new guidelines in a maximum of 10 Amazon accounts. If any existing card is saved in more than 10 account onwards will be deleted even if the customer has given consent to save the card.

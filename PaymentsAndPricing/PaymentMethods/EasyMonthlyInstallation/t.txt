@@ -1,0 +1,77 @@
+How does Debit EMI work?
+Debit EMI is a new EMI method. The bank won't block your card and you don't need the full amount in your account to transact. Your bank will deduct the monthly EMI from your account using the pre-approved overdraft facility.
+
+Currently, Only HDFC, SBI, Axis, ICICI, Federal, and Kotak Mahindra debit cards offer EMI.
+
+To avail EMI, you need to make a minimum purchase of ₹3000 using HDFC, ₹5000 using ICICI, Federal, Axis, and Kotak Mahindra cards, and ₹8000 using SBI.
+
+Click here for debit EMI eligibility and information.
+
+Why no-cost EMI charges interest?
+For EMI purchases using credit & debit card, your bank will charge you interest. However, under a no-cost EMI offer, the total interest payable, is already adjusted in the price of the order.
+
+The total payable amount (including interest) will be equal to the product price.
+
+Know more about no cost EMI click here.
+
+How does Down Payment work?
+It is a payment option on select products, where you can pay 25% of the product price during purchase and convert the balance into EMI on your credit card.
+
+You will have to pay the down payment and the first EMI in the next billing cycle of your credit card. For example, if you have made a purchase of ₹18000 on 9 months no-cost EMI using Down Payment, then initially your bank will block your credit limit by ₹18000. You will have to pay the one-time Down Payment of ₹4500 (25% of the product price) and the first monthly instalment of ₹1500 in the next billing cycle of your credit card. The blocked amount will come down to ₹12000. You will have to pay the remaining EMI of ₹1500 each for 8 months.
+
+Note: Down Payment option is available only on select credit cards and select products that are equal to or more than ₹4000 and on. Please check the EMI options section on the product detail page to know if the product is eligible for Down Payment.
+Why am I not getting EMI option?
+Please check your eligibility here:
+
+Debit EMI
+Amazon Pay Later
+Make sure your order value exceeds the minimum purchase price for the following EMI payment methods:
+
+Credit Card and Zest Money EMI- ₹3000
+Down Payment : ₹4000
+Debit Card- ₹3000 for HDFC, ₹5000 for ICICI, Federal, Axis, Kotak Mahindra and ₹8000 for SBI
+Bajaj Finserv. Ltd- ₹1998
+Amazon Pay Later- No minimum purchase for 1 month EMI tenure ₹3000 for 3 months EMI tenure, ₹6000 for 6 months EMI tenure.
+Note:
+Gift cards, Amazon pay wallet top-up, gold, jewellery, and worldwide store purchases are not eligible for EMI.
+EMI option is not available for Exports/International customers.
+No-cost EMI is available on select products. Please check the 'Special Offers' section on the product detail page for no cost EMI on debit card/credit card/ Amazon Pay Later/Bajaj Finserv card.
+
+How can I register for Amazon Pay Later?
+To know about Amazon Pay Later, registration with Amazon Pay Later and its usage and benefits and issues, go to Amazon Pay Later registration dashboard or visit this page.
+
+Why has my EMI not been processed?
+Banks process EMIs within 2-4 days. It will initially deduct the whole money from your credit/debit card and convert the amount (expect down payment) into EMI within 2-4 days.
+
+For revised payments, confirm EMI option and tenure selected. Find details under Your Orders>View Order Details>Payment Information.
+
+How can I close my EMI earlier?
+For EMI purchases using credit/debit card purchases: Contact your bank to close your EMI early, subject to foreclosure fees as per their policy.
+
+For Amazon Pay Later: You can pay the complete outstanding balance with your debit card, UPI, or netbanking on the Amazon Pay Later dashboard.
+
+What will happen to EMI if I cancel the order?
+If you cancel or return an EMI order purchased using credit cards / debit cards, Amazon will refund the full purchase amount to your original payment method and cancel the EMI r. Any down payment will be refunded within 5-7 business days. You will then need to contact your bank to confirm the cancellation.
+
+For credit cards: Your card issuing bank may charge nominal pre-closure charges in case you've already paid an EMI. For more details on EMI closure, please contact the card issuing bank.
+
+For order placed using Bajaj Finserv Network Card (BFL), we will notify BFL. They will cancel the loan if you haven't paid the first installment. If you've paid instalments, they'll refund the amount to your card and cancel the loan. There are no charges for foreclosure or pre-closure of No Cost EMI with BFL.
+
+For BFL Card: For more details on EMI closure, please contact Bajaj Finserv on Toll number- 086980 10101. Charges are applicable. You can also write to BFL on wecare@bajajfinserv.in
+
+For cancellation on orders placed using Amazon Pay Later, our partner (axio or IDFC) will cancel the loan if no instalments are paid. If you've paid instalments, the money will be refunded to your debit card/UPI/netbanking and the loan will be cancelled. There are no charges for foreclosure or pre-closure of EMI with Amazon Pay Later.
+
+Will I have to pay any extra amount for EMI transaction?
+For EMI using credit or debit card, you will be charged a processing fee by the bank (billed with your first EMI.) The processing fee details are -
+
+ICICI Debit Card is ₹99 + GST
+ICICI Credit Card is ₹199 + GST
+SBI credit card:
+Processing Fee of Rs. 99 + taxes applicable on 6, 9 & 12 month EMIs for Trxns. greater than or equal to Rs. 16000, Rs. 11000 & Rs. 8500 respectively.
+
+Processing Fee of Rs. 199 + taxes applicable on 18 & 24 month EMIs for Trxns. greater than or equal to Rs. 17500 & Rs. 16000 respectively
+
+HDFC credit / debit card is ₹199 + GST
+Bajaj Finserv EMI network card is ₹149 + GST
+Kotak Debit card - ₹199 + GST
+Kotak Credit card - ₹249 + GST

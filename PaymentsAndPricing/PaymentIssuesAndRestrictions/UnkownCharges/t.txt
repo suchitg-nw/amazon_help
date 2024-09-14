@@ -1,0 +1,27 @@
+Important: Don't send your credit card number via e-mail, as this isn't a secure transmission method.
+
+Before reporting an unauthorized transaction, please check if -
+
+An order is placed by another person (for example, a child, spouse, friend, relative) with access to your card number.
+A purchase is made by a person using another card linked to your credit or debit account.
+Previously placed orders for pre-order items.
+Recently cancelled or changed orders. Some banks show authorizations as charges or pending charges.
+An order is placed outside of Amazon.in using Amazon Pay. For further assistance with any Amazon Pay transactions, see the Amazon Pay Help pages.
+Your Prime subscription was renewed. Check if you have auto-pay enabled for your Prime subscription. Visit Manage Your Prime Membership for more details.
+Your complete order history is available in Your Account. If you don't recognize a charge, consider the following common scenarios:
+
+If the issue is a failed/pending transaction, please check the Payment Issues page or try revising your payment.
+If the issue is with a UPI transaction, please check this help page.
+If the charge is not explained by any of the mentioned situations, please call us on 180012001637. Please have the following information available:
+
+Last 4 digits of the card and expiration date for any cards associated with the account showing the charge.
+Date of charge
+Amount of charge
+Your name, e-mail address, and phone number.
+We will investigate the unknown charge once we have this additional information.
+
+Note: Legal and privacy concerns limit the information we can release and to whom it can be released. Depending on the outcome of our investigation, you may still need to contact your bank to resolve the issue.
+
+To know more about Reporting unauthorized transactions for Amazon Pay balance: Money please refer to link.
+
+Any personal data disclosed to us will be held in accordance with our Privacy Notice.

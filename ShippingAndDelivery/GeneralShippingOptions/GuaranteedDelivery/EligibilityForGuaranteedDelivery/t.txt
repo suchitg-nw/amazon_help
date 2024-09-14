@@ -1,0 +1,12 @@
+How Do I Check Eligibility for Guaranteed Delivery?
+Some Items Fulfilled by Amazon and Prime Eligible Orders are eligible for Guaranteed Delivery. To view the below information in your preferred regional language, select: English, हिन्दी (Hindi), தமிழ் (Tamil), తెలుగు (Telugu), ಕನ್ನಡ (Kannada), മലയാളം (Malayalam), मराठी (Marathi), বাংলা (Bengali).
+
+To check if an item is eligible for Guaranteed Delivery at the delivery address or pickup store:
+
+Go to the product details page.
+Select a delivery address from Deliver to, or enter your pincode.
+Select Update.
+Eligible shipping speeds will appear.
+For eligible items, you can select a delivery option at checkout.
+
+For more information, go to Guaranteed Shipping Speeds and Delivery Charges.

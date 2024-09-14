@@ -1,0 +1,18 @@
+An order may be undeliverable if:
+
+Nobody is available to accept the delivery after multiple attempts.
+The address was incorrect or the pincode and the area mentioned do not match.
+Recipient refused delivery.
+In rare cases, the address label has become unreadable during shipping.
+The courier partner may have left the item at a different location.
+The package was damaged in transit.
+Local and regional contingencies prevented the delivery of the item.
+Severe weather conditions affected the delivery.
+It was an DND (Do not disturb) delivery and there was no safe location to deliver the package.
+
+We cannot re-ship orders that have been returned to us. Typically, all undeliverable packages are returned to our fulfillment center within 13 days. Once we receive the package, the refund will be processed to the original payment method. The Refund timeline will depend upon the refund mode chosen by you (Amazon Pay Balance, original payment method or to your bank account). To know the refund timelines, refer to the About Refunds Help page. You may also check Amazon.in Refund policy for more details.
+
+Note:
+Our courier partners cannot retrieve and deliver an undeliverable package, even if it is at a local courier station.You may place a new order to buy the item.
+If a third-party seller has fulfilled the order, please contact the seller for undelivered packages.
+Our A-to-z Guarantee protects you against third-party seller purchases. It covers both timely delivery and condition of the items.
