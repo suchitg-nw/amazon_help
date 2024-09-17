@@ -1,0 +1,17 @@
+Note: The name, billing/shipping address and amount on the invoice will be the same that was provided while placing an order and cannot be change while downloading.
+Steps to download invoice:
+
+Go to Your Orders.
+Select View Order Details next to the order.
+Tip: If you do not see the order you are looking for, select another option from the Orders placed in menu.
+
+Select Invoice and print / save your invoice.
+Note:
+For orders placed before June 21, 2017, select P-slip/Warranty 1 to view the invoice.
+The IMEI/serial number/ warranty/ product information for mobiles/laptops may be available on the P-slip/Warranty 1 document. Provide the P-slip/warranty 1 and invoice documents for warranty/product insurance claims from brand authorized service centers. You may need to merge the P-slip/Warranty 1 and invoice, to provide them to the brand authorized service centers.
+For orders with multiple shipments, you can download the invoice documents from Desktop website.
+You can't print an invoice for the following orders from Your Account:
+Orders not yet shipped
+Seller Fulfilled Orders (to obtain a duplicate invoice for Seller Fulfilled Orders, you need to contact the seller directly from Your Orders)
+Digital Orders / eGC
+Mobile Recharge

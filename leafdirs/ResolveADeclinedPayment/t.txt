@@ -1,0 +1,24 @@
+To determine why your payment was declined, consider the following. If necessary, contact your bank for more information:
+
+You accidentally closed the app or tapped on your device navigation to go back while the transaction was being processed by your bank.
+Did you enter your credit/ debit card number, expiration date, CVV, billing address, and phone number correctly in Your Account?
+UPI transaction is timed out.
+Is your purchase outside of your normal spending range? Some banks will block transactions due to security concerns.
+Your card may be blocked for online transactions.
+Does your issuing bank have special policies regarding electronic or internet purchases?
+Your bank is going through an outage.
+You use a card that's not currently accepted on Amazon.in. For more information see Accepted Payment Methods.
+For more information on the reasons of payment failure, select Payment Issues.
+
+To retry a payment decline:
+
+Go to Your Orders .
+Do one of the following:
+Retry with your current payment method by selecting Retry Payment Method next to the order.
+Try again with a different payment method, as follows:
+Select Change Payment Method next to the order you want to modify.
+Select another payment method from your account or submit a new card number and select Confirm.
+Note:
+Please wait for 15 minutes for the revised payment flow to appear.
+In the revise payment workflow, you will not be able to use UPI again. Please choose another payment method to complete the transaction. If they wish to use UPI again, you can cancel the current order and place a new one.
+For more information on the Refund and Return guidelines, go to Returns and Replacements - FAQ. For more information on UPI transactions go to, Unified Payment Interface (UPI).

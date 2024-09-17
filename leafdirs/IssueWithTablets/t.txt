@@ -1,0 +1,165 @@
+1. What should I do if my tablet is not connecting to the internet?
+
+The WiFi setting could be OFF on the tablet. Check the settings and ensure WiFi is enabled and the tablet is ready to connect to a network. Scan for available network and connect to the one you want.
+
+Also, check the Network status and ensure the tablet has a connection after configuring the network. Go to Settings > General > Network > Network Status to check the connection status.
+
+2. What should I do if the Router/Modem is not ON or connected to the internet?
+
+Ensure the modem/router is connected to a working power outlet. Ensure that all the lights on the modem/router are ON. If the issues persists, contact your ISP provider.
+
+3. What should I do if the wireless network signal on my tablet is too weak?
+
+Wireless router could be too far from the tablet. Position your wireless router, modem router, or access point in a central location. Try to avoid putting the wireless device in a corner. Ensure that the router is no more than 15 feet away from the tablet.
+Check if there are other devices connected to the network. Disconnect any devices that you aren't actively using. To boost your wireless signal, use a wireless repeater. Place the repeater halfway between your router and the tablet.
+Note: Multiple devices connected to the internet at thesame time can lower your internet speeds and decrease your WiFi experience.
+Always ensure your network is protected by a strong password. Update your password every few months to prevent the possibility of unauthorized usage.
+
+4. What should I do if my tablet is slow, freezes, locks up, turns off or power cycles repeatedly?
+
+Clear temporary files and apps cache.
+
+Perform a soft reset.
+Press and hold the Power key from the Home screen of the tablet.
+Release the Power key when the screen turns OFF.
+Press and hold the Power key again until the tablet restarts.
+Test your device to see if the issue is resolved.
+Clear application cache.
+Each application has a cache of temporary files that may be taking up memory. You may not be able to clear the cache for every application. Some apps may not function as expected after clearing cache. Make sure you clear only the application cache and not the application data. If you clear the application data, your personal settings and info such as login information and high scores will be deleted.
+
+Tap the All apps icon on the Home screen > Tap Settings.
+Scroll down and tap Application Manager > Swipe to All.
+Scroll to and tap the desired application.
+Tap Clear Cache.
+Wait for the application cache to be cleared. Follow the above steps for all applications you want to clear the cache for.
+Free up internal storageUninstall unused applications. It helps free up internal memory and can improve device performance.
+Tap Play Store from the Home screen.
+Tap the icon Downloaded Apps.
+Scroll to and tap the app you want to uninstall.
+Tap Uninstall.
+Tap OK.
+Remove unwanted widgets
+You can remove some widgets to help improve performance.
+
+Tap Widgets.
+o Press and hold the desired widget.
+o Slide the widget to the Remove icon.
+o Release the widget when it turns red and it will be removed from the Home screen
+A recently installed application is causing an issue. Uninstall any applications that were installed before the issues started.
+
+Tablet is not updated Update the software on the tablet.
+Go to Settings > About.
+Click on Software Update.
+Click on Check for Updates.
+Install any update that is available.
+Restart the tablet and check if the issue persists.
+5. What should I do if my tablet does not switch ON?
+
+Connect your tablet to the power adapter.
+Ensure the tablet has power. Ensure no light or images are visible.
+Check the battery.
+Try charging the tablet with a new charger.
+Replace the battery if the tablet shows no indication of charging even with a new charger.
+Check for any visible damage on the power button. For any defect or damaged scenarios, contact to Amazon within the return window.
+Check and replace the display, if required.
+Check to make sure there isn't anything blocking the connection of your charging port on your device. Blow out or carefully use the end of a small paperclip (or similar long slender object) to get any dirt/debris out of the charging port.
+Check for software issues. Reinstall operating system. Back up your device. Reinstall the operating system according to the manufacturer's specifications to restore the software.
+6. What should I do if my tablet screen does not respond to touch?
+
+Screen protector/tablet case could be interfering with the touchscreen. Remove your screen protector or case from the device. Test the touchscreen again.
+
+Perform a soft reset
+
+Press and hold the power button until your screen goes black.
+After 1 or 2 minutes, press and hold the power button to switch ON the device again.
+For any defect or damaged scenarios, contact to Amazon within the return window
+7. What should I do if my tablet overheats?
+
+Perform a soft reset
+
+Hold down the power button until the device shuts off.
+Let it cool down for a few minutes.
+Hold the power button until the device powers on.
+Battery is defective. Replace the battery. For any defect or damaged scenarios, contact to Amazon within the return window.
+
+8. What should I do if my tablet is slow to respond?
+
+Temporary files may be causing an issue. Clear temporary files and apps cache.
+Perform a soft reset.
+Press and hold the Power key from the Home screen of the tablet.
+Release the Power key when the screen turns OFF.
+Press and hold the Power key again until the tablet restarts.
+Test your device to see if the issue is resolved.
+Clear application cache. Refer to question 4
+The issue could be caused because of low internal memory. Free up internal storage and remove unwanted widgets. A recently installed application might also be causing an issue. To remove unwanted/recently added widgets, refer to question 4
+9. What should I do if my tablet does not produce sound?
+
+Check playback device functionality. Check all speaker connections and test headphones on another functioning device. Connect the tablet to another playback device and check.
+Back up your data and reinstall the operating system according to the manufacturer's specifications to restore the software
+Check audio jack and inbuilt speakers. Check if the speakers on the tablet work. For any defect or damaged scenarios, contact to Amazon within the return window
+Check and correct settings.
+Go to Setting > Accessibility > Hearing.
+Go to Turn Off all Sounds and make sure it is unchecked.
+Check to make sure there is nothing blocking the speaker holes. Swab a thin q-tip across the surface of the speakers and inside the speaker hole to remove any blockage or buildup of dirt.
+10. What should I do if the front camera on my tablet does not work?
+
+If a particular app or process is conflicting with the flashlight, then a simple reboot should fix it.
+
+Press and hold the power button and select Power OFF from the menu.
+Wait for 10-15 seconds and turn it back ON.
+Note: Restart should fix the problem in most cases.
+Force stop the camera app.
+Clear app data and cache.
+Reset all app preferences.
+Uninstall all Third-party camera apps.
+Do a factory reset.
+For any defect or damaged scenarios, Contact to Amazon within the return window
+11. What should I do if thee are Bluetooth and WiFi connectivity issues?
+
+Check if the issue occurs on other devices.
+Make sure Bluetooth is turned ON.
+Determine which pairing process your device employs.
+Turn ON discoverable mode.
+Make sure the two devices are in close enough proximity to one another.
+Power the device OFF and back ON.
+Remove old bluetooth connections.
+Disconnect and reconnect from the device.
+Turn OFF your tablet and wait for a few seconds.
+Disable Bluetooth and WiFiWi-Fi and enable them again.
+Forget the network/bluetoothBluetooth device and reconnect.
+Perform a factory reset.
+Go to Settings > Backup & reset > Factory data reset.
+o Choose to Erase All Data.
+Warning: This process will erase all data on your device so make sure you backup your data.
+12. How do I know if my tablet is infected?
+
+Below is a list of symptoms that might suggest that the device has an infection (more than 2 means that its surely an infection):
+
+Data usage: This is due all the tasks that a virus tends to open in the background and it will also try to communicate via internet so also check internet usage.
+Apps crashing: An infection will tend to interfere with common used apps, so the crashing of apps that before worked well it’s a clear sign.
+Pop-ups: A sudden surge of pop-ups while browsing it’s one of the most important signs of infection
+Mysterious charges: If the infection its especially malicious will try to charge your credit card with apps of the play store.
+Battery Drain: For all these various activities the device will be consuming more energy, if you notice a sudden change on the energy consumption, it might be a sign of infection.
+13. What can I do to remove an infection on my Android device?
+
+Remove questionable apps:
+Go to Settings > Apps.
+Click on the app that needs to be uninstalled.
+Click on Clear Cache and Clear Data.
+Tap Uninstall to remove the app from the device.
+14. What should I do to remove an infection from my Apple tablet?
+
+Update the device from the tablet because when Apple finds a vulnerability they patch it up as soon as possible.
+Go to Settings > General > Software Updates.
+Select Download and Install.
+Update the device from iTunes if the tablet is not responsive because of the infection.
+
+Connect the device to a computer.
+Select your device.
+From the menu in the iTunes select Summary.
+Click Check for update.
+Click Download and Update.
+Reset the device.
+Go to Settings > General > Reset.
+Select Erase all content and settings.
+Restart the device.

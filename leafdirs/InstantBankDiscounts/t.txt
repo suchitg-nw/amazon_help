@@ -1,0 +1,70 @@
+General Queries
+1. What is an Instant Bank Discount (IBD)?
+
+Customers making a purchase on Amazon.in using payment instruments mentioned in the bank offer, and for eligible products, can avail a discount on the item price in accordance with the offer.
+
+For example, ICICI bank offers 5% instant discount on purchase of OnePlus 9R 5G worth 40,000. Customers who make this purchase and pay using ICICI debit/credit card (eligible as per offer) will get a discount of INR 2000 and will have to pay INR 38,000. Offers might be subject to minimum purchase value and maximum discount value, depending on the individual bank offer construct, please refer the offer detail page.
+
+2. How can I avail an IBD?
+
+Just go through the normal purchase process and checkout with eligible products. On the payment page, please select the offer provided for bank's eligible payment instruments.
+
+3. Is this a discount or a cashback? Will I get a cashback in Amazon Pay Balance
+
+Instant Bank Discounts are offered by the bank on the price of an item. You will receive a discount on the product price and not a cashback.
+
+4. Do I need a promo code to avail IBD?
+
+No promo code is required to avail Instant Bank Discounts.
+
+5. What if cancel my order or return the product?
+
+Instant Bank Discount is applicable for a successful purchase. If IBD is availed on any purchase, and it is subsequently cancelled, the refund amount of such purchases will be posted adjusting the instant discount amount. If the item is eligible for return, the refund amount of such purchases will also be credited post adjustment against the instant discount amount.
+
+6. My payment failed while placing the order, will I still be eligible for the discount?
+
+If your payment failed while placing the order, Amazon.in gives you an option to revise your payment. If you revise your payment successfully within the offer duration, you will be eligible for the offer assuming you continue to use an eligible payment instrument. For more information on revise payment click here.
+
+Combining offers
+7. Can I apply other promo codes in combination with the bank discount offer?
+
+Depending on the offer construct, if all purchase criteria and terms and conditions are met, you can avail both instant discount and cashback by use of other promo codes on the same purchase.
+
+8. Can I get the offer on Exchange?
+
+It depends on the offer construct. Please go through the product details page and offer details to check eligible products.
+
+Payment methods
+9. Can I combine EMI and Amazon pay balance?
+
+It depends on the offer construct. EMI option can be combined with bank discount offer only if it is mentioned in the offer terms and conditions. If the bank discount offer mentions that the offer is eligible on partial payment as long as minimum purchase value is spent on Bank Card, the remaining payment can be made through Amazon Pay balance. See FAQ 14 for further details on minimum purchase amount.
+
+10. Can I use my Commercial or corporate card to avail the instant bank discount?
+
+Instant bank discounts are not applicable on commercial or corporate cards. Please use the retail card of the eligible bank to avail discount.
+
+11. Do I have to enable my card for online transactions before I avail instant bank discount?
+
+Yes, if you have a newly issued card or have never made any online payment using your card, you will need to enable online transactions on your card. You can do this by visiting the Credit/Debit cards page of your bank or through online services provided by your bank.
+
+12. Can I make multiple transactions and avail instant discount?
+
+Yes, but each transaction has to meet the minimum purchase criteria. Once maximum discount is reached, you cannot use the same card to avail any further bank discounts.
+
+13. Can I avail discount on card payment for cash on delivery order? Are net banking transactions also included in the Offer?
+
+COD and Net Banking transactions are NOT included in this Offer.
+
+Minimum purchase and maximum discount
+14. Why is the minimum purchase amount different across categories?
+
+For some offers, the discount offered across categories varies. You can refer to the example below, where the minimum order value is different for mobile, grocery, and other products.
+
+On OnePlus 9 5G mobile phone the minimum order value of 5000 (for Mobile Phones) is satisfied and the offer is applicable, for which the customer will receive a maximum discount of up to 1500 for Non-EMI or 1750 for EMI orders. However, a customer buying only 5kg Aashirvad Select Premium Sharbati Atta will not qualify for this offer as the order value is less than 2,500 which is the minimum order value for this product category.
+
+
+IBD_Minimum purchase amount
+
+15. Why is the maximum discount different for each category in the above example?
+
+Discount value varies across products depending on which category they belong to. Grocery items amounting to INR 2500 or above will get a discount up to INR 300 irrespective of EMI option selection. Paying through the offer running bank's card is required to avail such offers and customers will not get any discount just by having cart value higher than the minimum order value.

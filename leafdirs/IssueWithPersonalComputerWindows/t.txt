@@ -1,0 +1,222 @@
+1. What should I do if I am not able to turn ON my laptop?
+
+Ensure the laptop is charged. To charge the laptop connect the power cord and charge it completely without turning ON the laptop and then turn it ON once it completed 100% of charge. Press the Power button on the Laptop to check if it turns ON.
+Note: Disconnect all the peripherals connected to the laptop such as mouse or a USB thumb drive.
+If the laptop is connected to a docking station, disconnect the power cord from the docking station and connect it directly to the laptop
+Note: A docking station is a device in which a laptop computer, smartphone, or other mobile device may be placed for charging, providing access to a power supply and to peripheral devices or auxiliary features.
+Ensure the laptop is in a power preventing state. Follow the below steps:
+Make sure to disconnect all the power supply to the laptop.
+Remove the battery from the laptop. Leave the laptop without battery for approximately 2-4 minutes.
+Insert the battery back into the laptop correctly.
+Connect the power cable to the laptop.
+Press the Power button on the Laptop to check if it turns ON.
+Note: If it is NON-Removable battery ignore from Steps (2 &3). Press and hold power button of the laptop for 20-30 seconds.
+There may be residual electric charge in the laptop (electricity clog). Remove the power supply to the laptop and follow the steps:
+For Removable Battery:
+
+Remove the battery & Power cord from the laptop.
+Press and hold the power button for 20-30 seconds and then connect both power cord and battery and turn on the laptop.
+For Non-Removable Battery:
+
+Remove the power cord, then press and hold power button for 20-30 seconds and turn it ON.
+Note: Make sure, the laptop to be shut down properly.
+Press and hold the power button for at least thirty seconds.
+Without replacing the battery, plug the AC adapter back into the laptop.
+Press the power button to turn on your laptop.
+Note: The residual electric charge in the laptop discharges performing the above steps.
+Insert the battery back into the laptop correctly.
+Connect the power cable to the laptop
+Press the Power button on the Laptop to check if it turns ON
+Check if the charger is faulty. Ensure the adapter cord is correctly plugged in on both ends securely. Check if there is any damage on the charging port of the laptop, cuts on power cable or at the pin which is connected to the charging port.
+2. What should do if I am unable to connect internet in my laptop?
+
+Ensure that the cables that connects the laptop to the internet are secured firmly. Ensure that the wired or wireless network hardware is switched ON and plugged IN correctly and the WiFi router is turned ON.
+Website or server could be temporarily offline. Check if the issue occurs with a particular web site or all web sites
+Note: Before assuming your internet connection is faulty, try visiting several popular web sites rather than just one.
+There could be IP address conflicts.
+Note: IP conflicts occur when two or more computers or devices (like a tablet) in the same network end up being assigned the same IP address
+Release or renew your IP address
+Press Windows key + R key to open the Run box.
+Type and enter ipconfig /release.
+Wait for the command to complete. You should see that the IP address line shows 0.0.0.0 as the IP address.
+This is normal because the command releases the IP address from the network adapter.
+Type and enter ipconfig /renew to get a new address.
+Wait for the command to finish.
+There should be an IP address in this result
+If your network uses a static IP addresses, manually change your IP to a different number.
+
+Note: Contact your Internet service provider for any concerns about the same.
+There could be a computer firewall software malfunction. Firewall software running on most computers is intended to prevent unwanted network traffic from disrupting its operation
+Temporarily disable the firewall software.
+If windows firewall or third party firewall software is installed in the computer, connection between the both can incorrectly block the traffic.
+Temporarily disable the firewall software and check if the issue still persist.
+If issue persists, please turn ON windows into Safe Mode With Networking (SMWN) by following below steps.
+In short, go to Advanced options > Startup Settings > Restart. Then, press 4 or F4 on your keyboard to start in Safe Mode, press 5 or F5 to boot into Safe Mode with Networking, or press 6 or F6 to go into Safe Mode with Command Prompt.
+The use of SMWN will third party stop and operate computer freely with basic OS in it.
+Note: In few laptop models at SMWN mode the touchpad will not work please have an USB mouse to operate.
+Laptop out of wireless signal range.
+Make sure that the Laptop is within the range of the WiFi network.
+Make sure that the wireless signal interface within the area of operating a laptop is minimum.
+Note: Greater the wireless signal interference, lesser the effective range of WiFi connection.
+Wireless network configuration could be changed.
+Make sure that the WiFi channel number and the encryption key on your router have not been changed. Note: If you are not sure about the WiFi channel number and the encryption key contact you network administrator.
+If still Wi-Fi is not connecting please check whether the network drivers is updated or not.
+If not please update the network drivers from your specific laptop brand support website.
+If it is pirated windows, request to install original OS which is suitable to the specific laptop model.
+Check for Broadband Router or Access Point Malfunctions. Reset the Router.
+Contact your ISP if you suspect your account has been blocked
+Note: Internet Service Providers (ISPs) can choose to block access from your account if you fail to make payment or otherwise violate the provider's Terms of Service.
+3. What should I do if I am unable to load content from USB devices on my laptop?
+
+Check for any visible damage to the USB ports on the laptop.
+Ensure that the USB cable used to connect external devices to the laptop are working properly. Check to see if the USB cable functions properly when connected to another computer:
+If YES, the USB ports might have malfunctioned.
+If NO, change the USB cable and check again.
+Note: USB cable failures are more common than USB port failures.
+Scan for any hardware change. Make sure to scan for any hardware changes using device drivers:
+Press Windows key + R key to open the Run dialog box.
+Type devmgmt.msc and press OK.
+Right click on the name of your computer, and then click on Scan for hardware changes.
+Wait for the scan to complete.
+Check to see if the USB device works properly.
+USB Controllers not working properly. Disable and Re-enable the USB controller.
+Press Windows key + R key to open the Run dialog box.
+Type devmgmt.msc and press OK.
+Locate Universal Serial Bus Controllers in the list.
+Click on the drop down menu arrow.
+Right click on the first USB controller in the list and select uninstall.
+Repeat the previous step (step e) for each USB controller in the list. Restart the computer.
+Windows will automatically reinstall the USB controllers when the computer restarts.
+Check to see if the USB controllers are working properly.
+4. What should I do If I am not able to connect devices via Bluetooth to my laptop?
+
+The Bluetooth could be turned OFF. Some laptops have a Bluetooth switch, make sure that the Bluetooth switch is turned ON.
+Click on Start > Devices > Bluetooth and Others and turn the Bluetooth ON.
+Bluetooth device may not be in the range or not charged. Use the laptop within the Bluetooth range and ensure the device to be connected is fully charges. To know more about the Bluetooth device connecting range refer to the Bluetooth product's description or owners manual.
+
+Note: Discharged or partially charged Bluetooth device might not get connected to the laptop.
+Bluetooth drivers could be out of date. An outdated or incompatible driver can cause Bluetooth problems. If you recently upgraded/updated Windows, it's possible that the current driver was designed for a previous version of Windows
+To automatically check for driver updates:
+Press Windows key + R key to open the Run dialog box.
+Type devmgmt.msc and press OK.
+Right click on the Bluetooth adapter, and select Update driver > Search automatically for updated driver software.
+Follow the on screen instructions to update the drivers.
+Restart the laptop and check for the Bluetooth connectivity.
+To manually install the Bluetooth drivers:
+Go to your PC manufacturer's website and download the latest driver.
+Follow the on screen instructions to install the Bluetooth driver.
+Restart the laptop and check for the Bluetooth connectivity.
+5. What should I do if my laptop is not connected to Ethernet?
+
+Connect the Ethernet cable properly
+Insert one end of the crossover cable into the laptop's Ethernet port.
+Insert the free end of the crossover cable into the PC's Ethernet adapter.
+Click on Start > Control Panel on your laptop.
+Type Network in the Search control panel (on the top right of the control panel pop-up display).
+Click on Network and Sharing center.
+Click the “Unidentified network” icon in the map at the top of the Network and Sharing Center window.
+Click on the name of your PC to make connection.
+Enter your user name and password if prompted
+6. What should I do if my laptop's CD/DVD digital audio playback is not working.
+
+Disc Drives may not be working properly. Disable and Re-enable the DIcs Driver.
+
+Press Windows key + R key to open the Run dialog box.
+Type devmgmt.msc and press OK.
+Locate Disc Driver in the list.
+Click on the drop down menu arrow.
+Right click on the name of the Disc Drive, select Properties to open the Properties window.
+Click on the Driver tab in the Properties window.
+Click on Disable.
+Note: A pop-up window will appear to accept the changes.
+Click on Yes > OK.
+Allow the Disc Drivers to disable
+Once the Disc Drivers are disable, Enable option will be active in the Driver tab.
+Click on Enable
+Close the Driver Tab and the Device Manager.
+Restart your laptop
+7. What should I do if my laptop's volume is low?
+
+Video or Audio file having low sound. Some Video or Audio files have low volume depending on their quality or the sources from which they have been download.
+Check if the issue occurs with a particular file or all audio/video files.
+Check the sound quality of an audio/video file in another device.
+The speaker could be faulty. Check if the issue occurs with a particular audio/video file or all the files.
+If the sound is still low, the issue would be with the audio/video file.
+If the sound is loud in another device, the issue would be with the speakers
+Check whether the drivers are updated or not. If it is not updated please update the audio drivers from the specific support website of the brand.
+
+8. What should I do if my laptop shuts down or freezes frequently?
+
+The laptop could be overheating.
+Make sure to clean the dust or any other foreign particles from the air vents.
+Put filtered material over the inhalation vent.
+Update BIOS (Basic Input Output System).
+Visit your laptop manufacturer’s site to download the latest BIOS update and follow the instructions to update the BIOS.
+Note: BIOS not only helps maintain the stability of your system but it will also increase the security and try to protect the system from any vulnerability.
+Make sure laptop to be placed on a flat surface where the hot air from vents to flow out.
+Do not place laptop on a bed/blanket as this cause to close the air vents and heat remains inside the laptop and cause over heating.
+Replace the battery if required.
+Note: Over their lifespans, lithium-ion batteries can lose the ability to hold a charge. After a few years, some batteries will last only a fraction of the rated run time.
+To revive a laptop battery that isn't holding its charge, start by unplugging your laptop so it's not charging. Then, leave it on until the battery is fully drained. Next, let your laptop sit, unplugged, for at least 3 hours to ensure it's fully dead. You can also do Standard calibration of battery via BIOS:
+Power on the laptop and hit F2 at the boot screen to enter BIOS.
+Choose the Power menu using the cursor keys.
+Choose Start Battery Calibration and then press Enter.
+The screen should turn blue. The laptop will continue discharging until it automatically shuts down.
+After the battery was drained to 0% then charge the laptop to 100% and check, whether the battery issue is resolved or not.
+
+9. What should I do if my laptop's battery is not charging properly?
+
+Battery device driver may not be working properly.
+Press Windows key + R key to open the Run dialog box.
+Type devmgmt.msc and press OK.
+Locate Batteries in the list.
+Click on the drop down menu arrow to find: Microsoft AC adapter and Microsoft ACPI-Compliant control method battery
+Right click on each one of them and select Uninstall.
+Shut down your laptop.
+Remove all the connections
+Remove the battery from the laptop and wait for approximately 5 minutes.
+Note: If your laptop comes with a non-removable battery, you can skip the above step and proceed further.
+Insert the battery back into the laptop correctly.
+Connect all the connections back to the laptop.
+Power ON the laptop.
+Note: The Battery drivers will be automatically installed once the laptop is powered ON.
+Replace the charge/charger cable.
+Check for any visible damage to the charger cable.
+Check whether there is any damage on the charging port of the laptop or not.
+Make sure there is no dent or cuts on power cable or at the pin which is connected to the charging port or else the laptop cannot be charged.
+10. What should I do if my laptop's integrated web camera is not working
+
+Integrated web camera device driver may not be working properly. Disable and re-enable the web camera device driver.
+
+Press Windows key + R key to open the Run dialog box.
+Type devmgmt.msc and press OK.
+Locate Image devices or Other devices in the list.
+Note: Note: Depending on the version of your windows, integrated web camera may be listed under Image devices or Other devices.
+Click on the drop down menu arrow to find: Integrated web camera. Right click on the integrated web camera and select uninstall
+Note: A confirmation pop-up window will appear, click OK.
+Allow the driver to uninstall completely.
+Restart your laptop.
+Windows will automatically reinstall the web camera drivers when the computer restarts
+Check to see if the web camera is working after restart.
+11. What should I do if my laptop's touch screen is not working/responding properly.
+
+Touch screen device driver could be disabled. To enable the touch screen device driver.
+Press Windows key + R key to open the Run dialog box.
+Type devmgmt.msc and press OK.
+Locate Human Interface Devices in the list.
+Click on the drop down menu arrow to find: HID- Touch screen.
+Right click on the Touch screen driver and click enable.
+Restart the laptop.
+Check to see if the touch screen is working after restart
+Touch screen device driver may not be working properly. Disable and Re-enable the touch screen device driver.
+
+Press Windows key + R key to open the Run dialog box.
+Type devmgmt.msc and press OK.
+Locate Human Interface Devices in the list.
+Click on the drop down menu arrow to find: HID- Touch screen.
+Right click on the touch screen driver and select uninstall.
+Note: A confirmation pop-up window will appear, click OK.
+Allow the driver to uninstall completely.
+Restart your laptop.
+Windows will automatically reinstall the touch screen drivers when the computer restarts.
+Check to see if the touch screen is working/responding after restart.

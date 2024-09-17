@@ -1,0 +1,92 @@
+Before Placing an Order
+
+
+    How do I check if exchange is available at my location?
+        Select the product you are looking for.
+        Select the delivery address (or provide pin code of delivery address) to check if exchange is available in your location.
+
+        Exchange offer is currently available in select cities only.
+        On the product detail page, look for the option of 'Exchange Your Old Phone/Product' option.
+    Why do I see a different exchange value at different pin codes?
+
+    Exchange offer and the proposed exchange value of used product is provided by third-party exchange partners. The offer may vary depending on the brand and model selected, your delivery location and availability of the offer by the exchange partner at the time of placing the order. While we try to work with various exchange partners to provide the best value to customers, the offer you see may vary depending on the above-mentioned factors.
+    Is there a list of used products that can be exchanged?
+
+    The used products accepted under the Exchange program is dependent on the exchange partners. Visit the "Exchange Your Old Phone/Product" option on the product detail page of the selected product to see the latest list of used products eligible for exchange.
+    What should be the condition of my used product that is to be exchanged?
+
+    If you are returning a Mobile, Laptop or Television, the used product:
+        Must be in working condition and should not be damaged, broken, have dents or cracks.
+        The display/screen should not have any cracks, discoloration, spots, lines, or dead pixels.
+        Should match the details entered while placing the order (with Exchange) and will be validated by the delivery associate e.g., IMEI of phone.
+        You must delete all personal data, sign out of your iCloud (iOS) / Google (Android) accounts, and remove any lock code or passwords.
+    The battery of my phone/laptop/tablet is dead and the device only turns on when connected to a charger, will my device be accepted under the exchange program?
+
+    We do not accept such devices under the exchange offer.
+    Do I need to provide original accessories and packaging for my used product?
+
+    It is preferred that you provide your used product with all original accessories and packaging. However, it is not mandatory. You may complete the Exchange process without the original accessories and packaging, if your used product meets all the other requirements.
+    Can I exchange more than one used product to buy one new one?
+
+    No, you can exchange only one used product per new product.
+    Do gift orders also require exchange verification?
+
+    Yes, gift orders will also require the exchange verification procedure on the pickup device at the time of delivery.
+    Can I provide one address for pick up and another for delivery?
+
+    No. The address has to be the same as the pickup and delivery happen simultaneously.
+    Do I pay any additional fee for availing exchange?
+
+    Yes, exchange fee is charged at the time of placing the order for the new product. This exchange fee is added to the total order price at the time of purchase. This fee covers pickup from doorstep, packing and shipping of your used product.
+        For exchanging TV, Refrigerator, AC, Washing Machine - Rs. 200
+
+        For exchanging Mobile - ₹129
+        Laptop, Tablet, Microwave and all other products - Rs. 100
+
+After Placing an Order but before pickup of used product
+
+Back to Top
+
+    I have placed an exchange order, when will my used product be picked up? Where can I track the status?
+
+    Your used product will be picked up by Amazon's Delivery associate at your doorstep when they come to deliver the new product. Since both pickup and delivery happen at the same time, you can track the new product delivery status to know the expected date of exchange pickup as well.
+    How do I send my used product to Amazon?
+
+    You don't need to send your used product. The delivery associate will pick up the used product at the time of delivery of the new product, provided the exchange checks are performed successfully.
+    What should I be prepared for before the pickup of my used phone/laptop/tablet?
+        Once the order is placed, the new product will be shipped. At the time of delivery of the new product, the delivery associate will assess the quality of the used product
+        Backup all your personal data and delete it from your used phone/laptop. Remove any memory card from your device.
+
+        In case you opt for Phone setup service (available in select pin codes in Bangalore) for your new device, the backup and transfer of personal data from the old phone to the new phone will be done by an expert technician. They will deliver your new device and perform the setup service. For more information on phone setup service, visit the Help page on Phone Setup.
+        Ensure you have the Amazon app installed on your used phone and you are logged into your Amazon account. Also ensure your phone has at least 50% battery so the delivery associate can conduct all the tests without battery running out.
+        Remove any screen locks, iCloud lock or passwords.
+        Once all checks are complete and before you handover your device to the delivery associate, please complete a factory reset of your used device
+    What should I have prepared for before the pickup of my used appliance?
+
+    For appliances, the product should be in a ready to pick up condition after uninstallation. Please note that the delivery associate may verify your product by powering it on using your device's power cable. Specific product level information is as below:
+        Television: All accessories should be unplugged and TV is dismounted from any fixtures.
+        Refrigerator: All the food items inside should be removed.
+        Washing Machine: All accessories should be unplugged and excess water needs to be drained out.
+        AC: The unit needs to be uninstalled by customer before pickup. For split AC, both indoor and outdoor units need to be uninstalled. Our delivery associate will not be able to help or arrange for uninstallation.
+        Microwave: All accessories are unplugged, and is ready for pickup.
+        Water Purifier/ Water Heater: The unit needs to be dismounted before pickup and excess water needs to be drained out.
+        Water Heater: The unit needs to be dismounted before pickup and excess water needs to be drained out.
+        Fans: The unit needs to be dismounted from ceiling or wall. For ceiling fans the blades should be dismantled from the main motor unit and kept ready for pick up.
+        Vacuum Cleaners: All accessories/attachments should be dismantled and kept ready for pickup.
+        Mixer Grinders: All accessories/jars should be dismantled and kept ready for pickup.
+
+Points you need to remember during pickup of used product
+
+Back to Top
+
+    What happens at the time of pickup of used mobile phone or appliances?
+
+    Visit the About Exchange Help page and learn more about exchanging Mobiles or Appliances
+
+    Please note that the verification process will require the Amazon app on used phone with customer logged in with the same Amazon account which was used to place the order. Kindly be available at the time of delivery or share the ordering account credentials with the intended recipient who will be present while exchanging the used device.
+    What happens if my used product fails the verification process?
+
+    If the used product does not pass all quality checks during exchange, you can still get the delivery of new product by paying the exchange discount amount against used Product. You may pay the value of the exchange discount to delivery associate. The delivery associate will hand over the new product upon receipt of payment and will not pick up the used product.
+    Will the delivery associate help in uninstalling the used AC or other appliances?
+
+    No, the delivery associate will not be assisting in uninstallation. you will need to ensure AC or other appliances are uninstalled in advance and ready for pickup.

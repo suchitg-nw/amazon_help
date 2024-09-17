@@ -1,0 +1,193 @@
+Power Issues
+What should I do if my TV is not powering ON or not responding?
+What should I do if the standby indicator on my TV is blinking red?
+Picture Issues
+What should I do if there are lines on my TV screen?
+What should I do if the screen on my Smart TV is blurred?
+What should I do if my TV is displaying double images?
+What should I do if my TV screen is cloudy or has bright spots?
+What should I do if there are odd colors on my TV screen?
+What should I do if my TV does not display a picture while using HDMI connection?
+What should I do if my TV does not display a picture while using a receiver connection?
+Smart TV issues
+What should I do if I am unable to control my Smart TV with my remote?
+How do I connect to WiFi on my Smart TV?
+What should I do if I have issues with channels on my Smart TV?
+What should I do if I have issues with apps on my Smart TV?
+What should I do if there is no audio on my Smart TV?
+Ordering
+Returns and Replacements - FAQ
+Damaged, Defective or Wrong Product - FAQ
+Cancel Items and Orders
+Power Issues
+Issue	Possible Solution
+What should I do if my TV is not powering ON or not responding?
+
+The power outlet could be faulty. Check if there is a problem in the power outlet by connecting another working device. Connect the TV to another wall outlet and check if it works.
+There could be loose connections. Secure all connections. Ensure the AC power cord is connected securely to a working wall outlet and the power cord is securely connected to the back of the TV. Check the Energy Saving Switch and turn it ON.
+Disconnect all external devices connected to the TV. Try turning ON the TV once all the connections are secure.
+Power button could be OFF. Unplug the TV power cord from the electrical outlet for 30 seconds. Plug the power cord back in. Press the power button on the TV and on the remote.
+What should I do if the standby indicator on my TV is blinking red?
+
+Perform a power reset
+Turn OFF the TV.
+Unplug the AC power cord.
+Leave the TV unplugged for 2 minutes.
+Note: Most Smart TV’s can be reset using the above steps. Check your user manual for specific instructions on how to reset your TV if the steps do not work.
+Connected external devices may be causing a problem
+Turn OFF the TV.
+Disconnect all connected devices like a USB drive or an HDD.
+Turn the TV back on and check if the issue persists.
+Reconnect the devices you disconnected one at a time with the TV ON.
+Pause after connecting each device and check on the indicator light to narrow down to the device with the problem.
+Replace the power cord connecting the problematic device to the TV.
+Picture Issues
+Issue	Possible Solution
+What should I do if there are lines on my TV screen?
+
+There could be an issue with the video source. Change video source, and check.
+Check if the issue is being caused because of the TV or the video source.
+Open the Menu screen on the TV.
+Check if the lines appear on the Menu screen too
+Try another video source to see if the issue persists on the Menu screen
+Perform a picture function test
+Note: Most TVs have a picture test function that can help reset the picture or diagnose the problem so you can call for a repair. Check your user manual on the exact steps to perform a picture function test
+Try adjusting your input cord, if the lines only appear on certain channels
+Turn off any electrical or battery-operated devices that may be creating radio frequency (RF) interference.
+Adjust the antenna direction and location, if you are using one.
+Run the Pixel Refresher (only for LG OLED TV)
+Go to the Main Picture settings.
+o Go to OLED Panel Settings and select Pixel Refresher.
+Note: Pixel Refresher' is the function that will clear any image retention or other screen issues that can happen when the TV is left turn on for a long period of time. This function needs at least one hour to run and will only start once the TV is turned off. This usually takes care of any image retention.
+Electrical outlet may be improperly wired or not producing the appropriate voltage. Check/change all electrical outlets connected to the TV.
+Try connecting the power cord of the TV into a different electrical outlet or surge protector.
+Plug the TV directly into the electrical wall outlet instead of a surge protector and check if the issue persists.
+What should I do if the screen on my Smart TV is blurred?
+
+There could an issue with the video source. Change the video source, if required. and try again.
+Make sure your picture isn't stretched. Play with the settings of your TV to ensure that the picture you're seeing isn't being stretched.
+Change your TV's sharpness and picture modes
+Reduce the noise. Swap your cables and unplug. Move it around.
+Check whether the issue is being caused because of the TV or the video source.
+Open the Menu screen on the TV.
+Check if the issue occurs on the Menu screen too
+Try another video source if the issue is not occurring on the Menu screen on the TV.
+TV software could be outdated.
+Make sure the TV is connected to an active, stable internet connection.
+Install the latest version of the TV software.
+What should I do if my TV is displaying double images?
+
+Press the ACTION MENU button using the supplied remote control.
+Select Picture in the Display and Sound category
+Press the Down Arrow button to highlight Clarity, in Advanced Settings.
+Select Random noise reduction and choose Low or Off.
+What should I do if my TV screen is cloudy or has bright spots?
+
+TV display settings may not be configured properly. Reconfigure the TV's display settings.
+
+Try to reduce the Back light Level in the Picture Settings Menu. t
+Turn the Light Sensor setting to On in the Setup Menu.
+Change the Power Saving setting to Low or High in the Setup Menu.
+Set the Picture Mode to Standard in the Settings Menu.
+What should I do if there are odd colors on my TV screen?
+
+Unplug all video inputs and be sure there is not dirt, dust, or damage (split video cord, cracked coax cable wire, broken or loose input on TV) coming in between the input video line and the TV input. Unplug all the A/V wires in the back and plug them into different ports if needed to test certain inputs
+
+What should I do if my TV does not display a picture while using HDMI connection?
+
+Correct input may not be selected. Check and change input, if required.
+Check which input is selected on the TV.
+Check which input on the TV, the source device is connected to.
+Press the INPUT button on the TV remote repeatedly until the correct HDMI input is displayed.
+HDMI cable may be damaged. Check/replace cable.
+Disconnect and reconnect the HDMI cable.
+Try a different device that can output anhas an HDMI video signal using the same connections.
+Use a different HDMI cable and check if the issue persists.
+Input of the audio system does not correspond with the video output. Follow the below steps.
+
+Make sure the video device is connected to the TV through the audio system.
+Check if the input of the audio system (such as amplifier or theater stand) corresponds with the video output device.
+Change the input of the audio system to match with the video output, if required.
+Issue with the A/V receiver. Connect the device directly to the TV.
+Connect the device directly to the HDMI input of the TV if you are using an A/V receiver.
+Keep in mind, your receiver or other device may not be an HDMI repeater and might not pass the signal on to the TV.
+What should I do if my TV does not display a picture while using a receiver connection?
+
+Correct input may not be selected. Check and change input, if required.
+Check which input is selected on the TV.
+Check which input on the TV, the source device is connected to.
+Press the INPUT button on the TV remote repeatedly until the correct input is displayed.
+Devices are not powered ON. Check and make sure all devices are powered ON.
+Make sure the TV is powered ON.
+Make sure the A/V receiver is powered ON.
+Press the ON button on the remote for the TV.
+There could be loose or faulty connections.
+Check if the cable is firmly connected to the TV and the A/V device.
+Replace the cable being used, to check whether is cable is the issue.
+Additionally, try the below steps.
+Connect the A/V device to another input of the TV to check if the input used on the TV is causing the issue.
+Press the Input button on the remote control of the TV. Switch the input to the corresponding input that you connected in step 1. Then, check if there is a picture on the TV screen.
+Connect another A/V device to the TV.
+Check whether the connected A/V device is causing the issue.
+Reset all the devices by disconnecting and reconnecting the power cords.
+Smart TV issues
+Issue	Possible Solution
+What should I do if I am unable to control my Smart TV with my remote?
+
+Batteries in the remote are drained or dislodged. Check and replace batteries.
+Interference between the TV and the remote. Something may be blocking the path to the device you want to control, you may not be pointing at the sensor on the device, or you may be too far away.
+How do I connect to WiFi on my Smart TV?
+
+Hit the Menu button on your TV remote.
+Choose the network settings option then set up a wireless connection.
+Select the wireless network name for your home Wi-Fi.
+Type your Wi-Fi password using your remote's button.
+Make sure that you have the wireless router's SSID (Service Set Identifier, network name, allows stations to connect to the network when multiple independent networks operate in the same physical area) and password settings before attempting to connect, and then follow the directions on the screen
+Check the network first, confirm that a connected PC or other device can access the internet using the same network; if you can’t access the network then the issue might be in your router or with your internet service provider (ISP).
+Check your router’s firewall (network security system) is not blocking any outgoing ports; in order to do this refer to your router documentation.
+Power reset the television and reset the connection between the router and modem by disconnecting then reconnecting the devices.
+Move the router closer to the TV and away from any interference or obstructions (microwaves, other wireless devices, USB 3.0 ports, etc) it’s possible to have interference if the devices are close from each other
+Plug an Ethernet cable from your router directly into the TV and update the television to its latest software version.
+Note: Refer to the TV user manual for exact instructions on how to update the software
+What should I do if I have issues with channels on my Smart TV?
+
+There could be an issue with cable/antenna. Troubleshoot the antenna/cable connection.
+
+1. Move or rotate the antenna to improve reception.
+2. Ensure the antenna or cable is connected directly to the back of the television.
+3. Perform a channel scan. Check your user guide for steps and instructions.
+Note: Note: A channel scan is necessary when using antenna or basic cable from the wall. When a cable / satellite box is used, the TV’s tuner is not in use and will not locate any channels
+Connect the RF connection to another TV. If issues persist, the problem lies with the antenna or cable.
+What should I do if I have issues with apps on my Smart TV?
+
+App might be out of date. Update the app.
+
+Make sure the App is up to date
+Reset the App.
+Reset the TV, if the issue persists.
+Turn OFF the TV.
+Unplug the AC power cord.
+Leave the TV unplugged for 2 minutes.
+Reconnect the AC power cord.
+Power ON the TV.
+Note: Most Smart TV’s can be reset using the above steps. Check your user manual for specific instructions on how to reset your TV if the steps do not work.
+What should I do if there is no audio on my Smart TV?
+
+Volume of the TV and connected devices may be low or muted. Check/Increase volume of the TV and connected device
+Check to make sure the volume level on your TV is set above zero.
+Make sure the TV is not muted.
+Confirm that the audio is turned up and not muted on your cable or satellite box if you have one.
+Verify that the volume is ON and up on your speaker or receiver, if you are using one.
+Speakers could be disabled. Enable the speakers
+Ensure the TV Speakers option is set to On, under Audio or Audio Settings.
+Select External Devices, under Audio or Audio Settings, if you are using external speakers.
+There could be an issue with TV speakers.
+Make sure there are no other devices connected to the audio jack.
+Check speaker balance settings on your TV and make sure they are set to normal.
+Switch to a different input device and verify there is sound from the TV speakers (for example, a DVD player or a gaming console).
+Turn the other device on and then use the INPUT button on the remote to switch to that device.
+Attempt to play a DVD or game to determine if the TV speakers produce sound.
+Secondary Audio Programming (SAP) could be enabled. Disable SAP.
+Check if the SAP (Secondary Audio Programming) is enabled.
+Disable the SAP option
+Note: Check your user manual for specific instructions on how to disable SAP.

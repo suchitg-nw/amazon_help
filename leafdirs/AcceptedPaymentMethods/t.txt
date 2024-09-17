@@ -1,0 +1,25 @@
+As per the new RBI guidelines, from 30th September 2022 onwards, only card networks (VISA/Mastercard etc.) and/or issuing banks can store credit/debit card details. You will not be able to see saved cards starting 1st October 2022 unless you provide consent to Amazon for card tokenization. To know more about this, visit this page.
+
+On Amazon.in, the following payment methods are available for you to make payment:
+
+Unified Payment Interface (UPI)
+Credit/Debit card
+Amazon Pay Balance
+Amazon Pay Later
+Net Banking
+Easy Monthly Installments (EMI).
+For some orders, you can also choose to pay on delivery.
+
+The details regarding the various payment methods are available here. For any issue regarding processing of payment you can visit here or contact Amazon.in customer support here.
+
+The following cards issued in India can be used:
+
+Credit Cards: Visa, Mastercard, American Express, Diners Club, and RuPay
+Debit Cards: Visa, Mastercard, RuPay, and Maestro
+We accept all international cards.
+
+Note:
+A maximum of 20 debit/credit cards can be added to your Amazon account. To add new credit/debit card details, please remove older credit/debit card credentials and click on save 'Save card as per new RBI guidelines' checkbox to save your new card.
+Payment may be split between one of the accepted credit or debit cards and an Amazon Gift Card, but payment can't be split among multiple cards.
+Credit or debit cards issued outside India can't be used to pay for Prime membership.
+To learn more about adding a debit or credit card to your amazon account, go to the Manage Payment Methods help page.

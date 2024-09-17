@@ -1,0 +1,22 @@
+Note: UPI is currently available in Amazon.in app and other third party apps/websites that support UPI. You cannot pay with it on Amazon mobile browser and Amazon desktop browser.
+Sometimes your UPI transaction could fail due to:
+
+Incorrect UPI ID: Check the UPI ID from the app you have registered for UPI and try again. UPI ID will be of the format XYZ@ABC
+Transaction expired: Sometimes the payment may fail due to time out issues or server issues. Please wait for 15 minutes for the revise payment option to appear on your order. You will receive an option to retry your payment on your order with a different payment method. If you'd like to use Amazon Pay UPI again, place a new order.
+If your bank has declined the transaction. This may happen when you:
+Attempt to send more than Rs.1,00,000 or do more than 10 Scan + Send money transactions within 24 hours.
+Attempt to do more than 20 Scan + Send money transactions of Rs.10 or less within 30 days.
+Attempt to do more than 100 Scan + Send money transactions within a month.
+Enter incorrect receiver details.
+Have insufficient balance.
+Note: Different banks have different transaction limits. For more details, please reach out to your respective banks.
+
+If your Amazon Pay UPI transaction shows Pending:
+
+Sometimes it may take up to 48 hours for the transaction to be successful from the time you initiated it. Please wait up to 48 hours for your transaction to be successful.
+
+If it is more than 48 hours, please raise a complaint to the bank through the Raise a Complaint feature available under the transaction that is in issue. You can find your transaction under UPI tab in the View Statement option (ONLY on Amazon.in app). Once the bank resolves the complaint, the resolution/information provided by the bank will be visible here. Please get in touch with your bank for more details.
+
+For more information related to UPI, see this.
+
+To know more about Payment methods, click here. For more information on Payment Issues, click here.

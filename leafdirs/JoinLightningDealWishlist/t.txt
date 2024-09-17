@@ -1,0 +1,10 @@
+Note: The Join Waitlist button is only active when there are places available on the waitlist. The button is reactivated when new places become available on the waitlist.
+To join a Lightning Deal waitlist:
+
+Select Join Waitlist on a Lightning Deal.
+When you're next on the waitlist, you'll see an alert in the upper right-hand corner of your Amazon page saying that the deal is available. If you have the latest Amazon app and have turned on notifications, you'll receive a notification on your phone.
+Add the deal to your cart within the time limit. If you don't add the deal to your cart within the time limit, you'll be removed from the waitlist.
+Complete your purchase and redeem the discount. If you don't complete the purchase within 15 minutes, the deal will be made available to the next customer on the waitlist.
+Note:
+Joining a waitlist doesn't guarantee that the deal will become available for purchase.
+A waitlist expires when the promotion expires. All customers on the waitlist then lose their chance to claim the Lightning Deal.

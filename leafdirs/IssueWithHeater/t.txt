@@ -1,0 +1,154 @@
+1. Why am I unable to turn ON my heater?
+Reason: Faulty switch -
+
+Remedy:
+
+Make sure that the Heater is plugged correctly into the power outlet.
+Check if other appliances work properly in the same power outlet.
+Note: If other appliances fail to power ON as well, the power outlet might be faulty. Check if the Heater powers ON using a different power outlet.
+
+Make sure that the power button is pushed in correctly to turn ON the Heater.
+Note: Make sure that you tap the power button on the humidifier (if your humidifier has a power button).
+
+If the issue still persists, contact manufacturer for after sales service.
+Reason: Temperature or Power controls not set properly.
+
+Remedy:
+
+Make sure to set temperature and power controls correctly.
+Reason: Power cord is damaged. -
+
+Remedy:
+
+Unplug the Heater
+Inspect the power cord for any physical damage
+If necessary, replace the power cord with a new one
+Reason: Faulty Circuit board
+
+Remedy:
+
+It is recommended to contact manufacturer for after sales service
+Back to the top
+
+2. My Heater's fan is working but why is no heat being generated?
+Reason: Thermal cutout protector activated -
+
+Remedy: Reset the thermal cutout protector.
+
+Thermal cutout protector is activated because of overheats condition.
+To reset protector, unplug the Heater for several minutes and allow it to cool.
+Check to see if the Heater function normally.
+If the issue still persists, it is recommended to contact manufacturer for after sales service.
+Back to the top
+
+3. Why does the blower fan do not work after I have turned ON the heater power button?
+Reason: heating element is not hot enough -
+
+Remedy: Allow the heating element to get hot.
+
+The blower fan will not work until the heating element is hot enough to heat the air passing by.
+It will normally turn ON after about 10 seconds.
+Note: The turning ON time may vary from manufacturer to manufacturer.
+Back to the top
+
+4. Why does the blower fan keeps running after I have turned OFF the Heater?
+Reason: Heat chambers have not cooled down -
+
+Remedy:
+
+The blower fan will continue to run until the proprietary heat chambers have cooled down.
+After few minutes the fan will shut OFF automatically.
+Back to the top
+
+5. Why does the heater's airﬂow seems to have diminished?
+Reason: Heater's rear intake is blocked
+
+Remedy:
+
+Make sure that the Heater's rear intake is not blocked.
+Note: Place the heater where rear air intake wont be blocked.
+Reason: Filter is not clean
+
+Remedy:
+
+Clean the filter.
+Follow the filter maintenance procedure to clean the filter:
+Remove the ﬁlter by unscrewing screw and opening the ﬁlter cover on the back of the heater.
+Carefully pull the ﬁlter out.
+Vacuum the filter or Run warm water over the filter to remove dust.
+Run the water in the opposite direction of the airflow until the water runs clear.
+
+The ﬁlter might excrete some ﬁltered residue, so be cautious not to drip on any stainable surfaces such as carpets.
+
+Alternately, you can also soak the ﬁlter in water mixed with a small amount of mild dish soap. (Ensure to rinse with water after soaking the ﬁlter).
+Note: Do Not forget to rinse with water after soaking the filter.
+Clean the air puriﬁer ﬁlter every 30 days in order to maintain performance.
+Back to the top
+
+6. Why is my Heater is not functioning properly ?
+Reason: Room size is too big
+
+Remedy:
+
+Prior to purchasing a Heater check with the dealer if the capacity of the Heater is adequate for the desired room.
+Reason: Doors and windows are open
+
+Remedy:
+
+Make sure that the Doors and Windows of your room are closed.
+Reason: Incorrect heater operating location
+
+Remedy:
+
+Make sure that the humidifier operation is not blocked by walls or curtains.
+Reason: Unknown
+
+Remedy:
+
+Turn OFF the Heater.
+Disconnect the power cord.
+Clean the Heater according to the instructions in the user manual.
+Check to see if the issue still persists. If yes, it is recommended to contact manufacturer for after sales service
+Back to the top
+
+7. Why does the heater shuts itself OFF automatically?
+Reason: Heater has gone into auto recovery mode
+
+Remedy:
+
+This occurs when the internal temperature of the heater exceeds a pre-deﬁned limit.
+Wait a few minutes for the internal components to cool down.
+Restart the Heater.
+Note: Make sure no other appliances are operating on the circuit used to run the heater, as this could also cause overheating.
+
+Back to the top
+
+8. Why does my heater make loud noise?
+Reason: Defective transformer
+
+Remedy:
+
+Contact manufacturer for after sales service.
+Note: Some models of heaters will make certain sounds, which are normal. For example Radiant, Parabolic, Quartz, and Baseboard heaters will have a crackling or vibrating sound coming from them when they are first turned ON. This is caused by the heating elements expanding as they heat up, consider this as normal.
+
+Reason: The blower motor is damaged
+
+Remedy:
+
+The blower motor which runs the fan could have been damaged.
+Contact manufacturer for after sales service.
+Note: Some models of heaters will make certain sounds, which are normal. For example Radiant, Parabolic, Quartz, and Baseboard heaters will have a crackling or vibrating sound coming from them when they are first turned ON. This is caused by the heating elements expanding as they heat up, consider this as normal.
+
+Reason: The heat coil is damaged
+
+Remedy:
+
+The heat coil which gets heated up may be worn out.
+Contact manufacturer for after sales service.
+Note: Some models of heaters will make certain sounds, which are normal. For example Radiant, Parabolic, Quartz, and Baseboard heaters will have a crackling or vibrating sound coming from them when they are first turned ON. This is caused by the heating elements expanding as they heat up, consider this as normal.
+
+Reason: Heater is not placed on even surface
+
+Remedy:
+
+Make sure that the humidifier is placed on a flat and even surface.

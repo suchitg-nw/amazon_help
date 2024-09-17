@@ -1,0 +1,34 @@
+About Pay on Delivery
+Disclaimer: In the event of any discrepancy or conflict, the English version will prevail over the translation.
+
+Pay on Delivery (POD) includes Cash on Delivery (COD) as well as additional digital payment facilities via UPI / QR Code –Scan & Pay.
+
+Pay on Delivery is available as a payment method for all items that are Fulfilled by Amazon, Prime Eligible and some seller fulfilled items.
+
+Pay on Delivery orders can be paid using cash or via Amazon UPI Scan & Pay or using Amazon SMS Pay link. Please ask your Delivery Associate to send you a Pay Link via SMS. Once you receive this link, you will be taken to a page where you can choose to pay via credit/debit card or UPI. You can also request delivery agent to provide a UPI QR code for your order for which you can use Amazon Scan & Pay along with other UPI payment instruments. 
+
+Starting September 19, 2023, we will not be accepting Rs. 2,000 currency notes for Cash on Delivery (COD) orders or Cashloads. This is in accordance with the directions issued by the Reserve Bank of India on May 19, 2023.
+
+In light of enhanced safety measures due to the spread of COVID-19, we have stopped accepting payments by swiping credit/debit cards via mPOS card machine. 
+
+To pay using Amazon SMS Pay link:
+You will receive an automated Amazon Pay Link on your mobile number via SMS on the day of delivery. You can also ask your Delivery Associate to generate a new Pay Link SMS to your smartphone that has internet connectivity.
+Click on the link in SMS and initiate payment
+ Select your payment method (credit/debit cards accepted, and UPI) and complete payment using your credentials.
+After posting the successful payment, you'll get a confirmation message.
+To pay using UPI QR code, please first ensure you are maintaining 6 feet / 2 meters of social distancing between yourself and the Delivery Associate before proceeding:
+
+Ask your delivery agent to provide a UPI QR code for your shipment from his Amazon Delivery Associate app.
+Scan that QR code using Amazon Scan & Pay or any other UPI payment instruments while maintaining safe distance.
+Enter your UPI PIN to complete the payment.
+After posting the successful payment, you'll get a confirmation message.
+We only collect the amount printed on the invoice.
+
+Note:
+
+Pay on Delivery isn't yet available for all pin codes. This is due to limitations of courier services we use.
+For more details on the Pay on Delivery limit for a specific order, please visit the product details page.
+Pay on Delivery will only be available for some items under Lightning Deals.
+Pay on Delivery is available for Signing up for Prime Membership for eligible customers.
+If you're using Pay on Delivery as a payment method and your mobile number isn't verified on Amazon, you'll be asked to enter a One-Time password to complete your order. This One-Time password will be sent to your registered mobile number.
+Pay on Delivery is not available for exports/international customers

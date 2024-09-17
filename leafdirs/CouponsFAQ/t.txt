@@ -1,0 +1,27 @@
+1. How do I find and use Amazon Coupons?
+You can discover coupons through the Coupons Home Page, product detail page, search, product listing pages and in your shopping cart. You can use coupons by 'collecting' them first by selecting the 'Collect Coupon' button found in these pages. After you have collected the coupon, your promotional discount will be displayed on your order summary page during checkout.
+
+2. Where will I find the coupons collected by me?
+When you visit Amazon Coupons page, you’ll find a “View Coupons” link on the Coupons Bar on top of the page. Once you select it, it’ll take you to '‘Your Coupons'’ page showing all the valid coupons collected by you.
+
+3. Do I need to copy and paste some coupon code?
+There are no visible promo codes to copy and paste. You just have to select on "Collect Coupon" button and the discount will be automatically applied as you proceed to checkout.
+
+4. Can I collect a coupon now and make the purchase later?
+Yes. The collected coupon will be saved to your account and will be automatically applied when you purchase the item from the same seller from whom the coupon was collected. Meanwhile, if the coupon validity expires, it’ll be removed from your account. Go to the Coupon bar on the Coupons pages to find the Coupons which will expire soon so you can make a purchase before the expiry. Coupons cannot be reactivated or reissued once they are expired.
+
+5. What happens if I want to return the item purchased using Coupon?
+If you return the item within the return window and want a refund, you'll get the amount paid by you. If you want a replacement, you'll get it for free without any additional payment.
+
+6. If I collect a coupon and purchase multiple quantities of the item, will I get the coupon discount on all items?
+No. The Coupon discount will be applied only to one unit of your purchase. E.g., if you collect a Coupon of 10% off on Item X worth ₹100 and you go on purchasing 4 units of Item X for ₹400, you’ll get a total discount of ₹10 only and not ₹40.
+
+7. Why am I unable to apply the collected coupon when making a purchase?
+You might be unable to apply the coupon as some items do not qualify for the coupon. Please read the T&C of the promotional coupon to get more information about the eligible items where you can apply the coupon.
+
+Note:
+Ensure to use a coupon offered only on Amazon.in since we don't accept coupons not listed on our website.
+Coupons can be used on Subscribe & Save items when you sign up for a new subscription. The coupon will only apply to the first delivery. It's not possible to redeem coupons for the existing subscriptions.
+To check all currently available coupon offers, visit the link below and sign in to your account:
+
+https://www.amazon.in/coupons

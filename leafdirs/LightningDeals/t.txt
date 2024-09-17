@@ -1,0 +1,12 @@
+Lightning Deals are time-sensitive, so complete your order as soon as possible.
+
+When a Lightning Deal is available, here's what you'll see:
+
+The item featured in the deal.
+Any available variations of the item (for example, different size or color).
+The promotional discount amount and final price.
+A status bar showing the percentage of deals already claimed .
+A timer showing how long you have to claim the promotional discount.
+An Add to Cart button, if there are available promotional discounts.
+Note: When other customers hold all the promotional discounts for a Lightning Deal, you'll see a Join waitlist button and the status bar shows that 100% of the promotional discounts are held in other customer carts or have been used to purchase the deal.
+Learn more about how to Claim a Lightning Deal or Join a Lightning Deal Waitlist.

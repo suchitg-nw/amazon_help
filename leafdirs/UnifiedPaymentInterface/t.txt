@@ -1,0 +1,223 @@
+How do I set up Amazon Pay UPI?
+You can set up Amazon Pay UPI to make UPI transactions by registering for UPI through the Amazon.in app. UPI services on Amazon.in app are provided in association with Axis Bank Limited.
+
+From your Amazon.in app, go to Amazon Pay dashboard and tap Amazon Pay UPI.
+Choose the SIM card / mobile number associated with your bank account if you have multiple SIMs in your phone and tap Verify your mobile number.
+Post verification of your mobile number, choose your bank from the list and follow the on-screen instructions.
+
+
+
+Note:
+Ensure that the SIM you are selecting to send an SMS is active, has balance and is not associated with an international number.
+The SIM that you are using to send an SMS should have the same mobile number using which you are signed into Amazon account and the same mobile number should be registered with the bank that you want to link with APay UPI.
+If the mobile number in the amazon account is different from the one registered in your bank, you can update the mobile number in the Amazon App by following below steps.
+
+Go to Your Account section on Amazon App or Desktop website.
+In Your Account, go to login and security.
+Tap on the edit option against your current mobile number to update the mobile number.
+If everything mentioned in above point 1 & 2 is correct, we request you to update your Amazon App by visiting play store and re-attempt to link your bank account with Amazon Pay UPI.
+Note: Currently, you can setup Amazon Pay UPI ONLY through the latest version of Amazon.in app on an Android or iOS (except iphone 6 and 6s) mobile device.
+
+a.Mobile Device - An Android mobile device from version 8 or iOS (except iphone 6 and 6s)
+
+Check the version in Phone Settings -> About Phone
+
+b.Amazon App - The latest App version should be 26.3.0.300 or above 26.3.0.300.
+
+Check the version on the Amazon App Menu -> Settings -> Legal & About
+
+You cannot have multiple UPI IDs linked to the same bank account.
+
+In rare scenarios, your bank account might be facing some issues at their end which will restrict you from linking your bank account with Amazon pay UPI. In such a case, we recommend you to visit Amazon App and re-attempt to link your bank account after 30 mins.
+You might need to allow Amazon to send an SMS and read it to verify your mobile number.
+You can also set up Amazon Pay UPI from the following links:
+Manage Bank Accounts
+Send Money
+Request Money
+How can I pay with Amazon Pay UPI ID?
+Pay with Amazon Pay UPI ID on Amazon.in app:
+
+Proceed to checkout the items in your shopping cart on Amazon.in app.
+On the Select a payment method page, select your linked bank account with your Amazon Pay UPI ID.
+Post confirming your order, enter your UPI PIN to complete the payment.
+Once the payment is complete, you can see an order placement confirmation on your Amazon.in app.
+
+
+Pay with Amazon Pay UPI ID on third party apps/websites:
+
+Enter and validate your Amazon Pay UPI ID on the third party app/website.
+
+Once it is validated, open the Payment Request notification that you'll receive from your Amazon.in app. You can also go to Amazon Pay dashboard on your Amazon.in app and tap You have pending actions to view the request.
+
+Review the request, tap Pay Now and enter your UPI PIN to complete the payment.
+
+Once the payment is complete, you can see the Transaction Successful message on your Amazon.in app.
+
+
+
+Note:
+Currently, you can pay with Amazon Pay UPI ID only on Amazon.in app and other third party apps/websites that support UPI. You cannot pay with it on Amazon mobile browser and Amazon desktop browser.
+The transaction limit is up to INR 1,00,000, which may vary from bank to bank.
+How can I pay with a UPI ID created through other UPI apps?
+You can pay with a UPI ID created through other UPI apps on Amazon.in app/browser.
+
+Proceed to checkout the items in your shopping cart on Amazon.in app/browser.
+On the Select a payment method screen, select BHIM UPI as the payment method, enter your UPI ID and tap Verify.
+If the ID you've entered is valid, you will be prompted to go to your UPI ID linked mobile app to complete the payment.
+Once the payment is complete, you can see an order placement confirmation on your Amazon app/browser.
+
+
+Note: The payment needs to be completed within 10 minutes to successfully place the order.
+Where will I get my refund if I return an Amazon order paid with UPI?
+Refunds for UPI transactions will be issued directly to the UPI linked bank account. The refund timeline is 2-4 business days. Refunds are subject to Amazon's refund policies available at Amazon.in Refund Policy.
+
+How do I send money using Amazon Pay UPI?
+Go to Send Money the Amazon Pay UPI homepage and choose either of the following methods to send money to a recipient:
+
+Send to UPI ID: Enter the UPI ID of the recipient.
+Send to a contact: Select the contact of the recipient from your phone contacts. (displayed under Your Contacts).
+If the selected contact has Amazon Pay UPI ID or is a saved UPI ID on your Amazon.in app, it will populate the UPI ID of the recipient. Else, it will prompt you to enter the UPI ID of the recipient to send money. Note: If you wish to send money using the Send to a contact option, you need to allow Amazon to access your phone contacts to select a contact and send money through Amazon Pay UPI. Please select Allow access after checking the box.
+Send to bank account: Choose the recipient's bank account and enter account number, IFSC code and name of the account holder.
+Recently Transacted: The recent contacts/UPI IDs to whom you have sent money will be displayed here in the form of saved UPI IDs. You can choose any of these saved UPI IDs to send money.
+
+
+Follow the on-screen instructions to send money to the recipient. You can also write a comment for the transaction by tapping What is this for?
+
+Note: You can Send Money only through the latest version of Amazon.in app.
+How do I request money using Amazon Pay UPI?
+Go to Request Money on Amazon.in app and choose either of the following methods to request money from a sender:
+
+Request from UPI ID: Enter the UPI ID of the sender.
+Request from a contact: You can select the contact of the sender from your phone contacts.
+If the selected contact has Amazon Pay UPI ID or is a saved UPI ID on your Amazon.in app, it will populate the UPI ID of the sender. Else, it will prompt you to enter the UPI ID of the sender to request money.
+
+
+Follow the on-screen instructions to request money from the sender. You can also write a comment for the transaction by tapping What is this for? Once the request is successfully sent to the sender, you can see a request ID on the screen.
+
+Note:
+You can Request Money only through the latest version of Amazon.in app.
+If you wish to request money using the Request from a contact option, you need to allow Amazon to access your phone contacts to select a contact and request for money through Amazon Pay UPI.
+Where do I check my Amazon Pay UPI ID transactions?
+All Amazon Pay UPI ID transactions can be tracked from the Amazon Pay UPI section on the View Statement page.
+
+Linking Rupay Credit Card to Amazon Pay UPI
+
+How do I link my RuPay Credit Card to Amazon Pay UPI?
+
+If you are an existing customer registered with Amazon Pay UPI - You need to visit Amazon Pay UPI dashboard (Amazon.in mobile application home screen→ Amazon Pay → Amazon Pay UPI), where you will see a banner to “Add Card now”, please click on the same and proceed further with on-screen instructions. 
+ If you are a new customer not registered with Amazon Pay UPI – You can visit the Amazon Pay UPI dashboard (Amazon.in mobile application home screen → Amazon Pay → Amazon Pay UPI) to land onto the bank selection page, where you can toggle to RuPay Credit Card tab and proceed to select your RuPay Credit Card Issuer Bank.
+
+I am not able to link my RuPay Credit Card to Amazon Pay UPI?
+
+This can be due to the following reasons: 
+
+a.You have not granted the requisite permissions to link your RuPay Credit Card on Amazon Pay UPI. This is required in order to authenticate your identity. These are phone and SMS permissions requested during the linking of your RuPay Credit Card on Amazon Pay UPI, which helps in verifying that your UPI account is being used from your mobile device only. Please re-start the linking process and allow the permissions asked.
+
+b. Your mobile number registered with Amazon.in account is different from the mobile number linked to RuPay Credit Card account with the bank that has issued you the RuPay Credit Card that you are trying to link with Amazon Pay UPI. 
+
+Where can I use my RuPay Credit Card on Amazon Pay UPI?
+
+ You can shop on Amazon.in, pay for your bills, for recharges, buy movie tickets, flight tickets etc. on Amazon.in. 
+
+We are working on enabling RuPay Credit Card on Amazon Pay UPI for 'Scan and Pay' or on other online merchants. We will notify you when it is launched.
+
+Can I send money to my peers using RuPay Credit Card on Amazon Pay UPI?
+
+No, you cannot send or receive money from peers using RuPay Credit Card on Amazon Pay UPI. Additionally, RuPay Credit Card on Amazon Pay UPI cannot be used for cash withdrawals, payments for IPOs, adding money to wallet, purchase of gift cards etc.
+
+Money was deducted but the merchant did not receive money. What can I do?
+
+You can find all the transaction details in your transactions history page. If your account has been debited and merchant has not received funds, your funds will be credited back to your RuPay Credit Card account within 3-5 working days. You can also raise a complaint on the transaction history page in case your transaction has not been successfully completed as stated above.
+
+What are the transaction limits for RuPay Credit Card on Amazon Pay UPI?
+
+At the time when you link your RuPay Credit Card to Amazon Pay UPI, transaction limit for your first transaction within 24 hours of linking is INR 5000.  The existing UPI limits per day will also apply to RuPay Credit Card on Amazon Pay UPI as well. 
+
+More Questions
+What is UPI?
+
+Unified Payment Interface (UPI) is a payment platform developed by the National Payments Corporation of India (NPCI), an RBI regulated entity. It allows you to make instant online payments between bank and accounts of any two parties by using a valid UPI ID, a virtual payment address linked to your bank account.
+
+What is a UPI ID and a UPI PIN?
+
+A UPI PIN is a four- or six-digit pass code you create/set while registering for UPI and can be used for authenticating your UPI transactions. Once you have registered for UPI, you will get a UPI ID, a virtual payment address linked to your bank account. You will require your UPI ID and UPI PIN to make any UPI transactions.
+
+Note: Your bank will validate the UPI PIN you enter for authenticating your UPI transactions.
+I forgot my UPI PIN or want to change my UPI PIN?
+
+On Amazon Pay dashboard, go to UPI ID tile > under "Your linked bank accounts" - click on the (⋮) option next to your bank account > Forgot UPI pin / Change UPI Pin
+
+What is the new feature of UPI number? What do I need to do?
+
+With launch of the new feature, you can now use your phone number (or any other 8-11 digit number) to receive money from any UPI app. Now friends/contacts using any UPI App can send you money just by entering your phone number (or any other 8-11 digit number that you identify). You can go to the Amazon Pay page and set up Amazon Pay UPI if you haven't already; Amazon Pay will by default enable this capability for you. If you have already signed up for UPI, then you can click on the "UPI Number" widget on the page (use mobile number/8-11 digit number to receive money) to enable in one click . Once you are done, then your friends or contacts can easily send money to you from any UPI app. As your friends and contacts enable this feature, you'll also be able to send money to anyone no matter which app they are using.
+
+Can I link any mobile number to receive money?
+
+No. You can only link your own mobile number that you have been linked to your bank account and is registered for UPI.
+
+Is it mandatory to use only mobile number to set up UPI number?
+
+No. You can set your mobile number and/or any other unique 8-11 digit number as your UPI number. We however advice you to set your mobile number as UPI number to make it easy for others to pay you. They only need to know your mobile number and will not have to remember your unique 8-11 digit number.
+
+When my friends or contacts pay me on my phone number, where will I receive money now?
+
+You will receive money in the bank account linked to Amazon Pay UPI. All the payments can be tracked on the Amazon Pay transactions page. If you want, you can also set the Amazon Pay wallet to receive all your payments and you can use this wallet balance to make future payments via one click.
+
+Why should I link my mobile number to Amazon Pay UPI?
+
+Once you link your number, receiving and sending money from Amazon Pay UPI becomes much easier. You just need to remember your phone number. Additionally, you can now track all your everyday payments in one place and win exciting rewards every time you pay or receive payments on Amazon Pay UPI.
+
+Can I link my mobile number with multiple UPI apps to receive money?
+
+No. You can only choose one app to receive money using your phone number. However, you can switch to another app if you want by verifying your UPI ID.
+
+Any time my friends or contacts send money to me using any App, I always receive it on Amazon Pay UPI. Why? How do I stop this?
+
+This could be because you have set up your mobile number to receive money from any UPI app to Amazon Pay UPI. Go to UPI Settings page -> click on manage UPI numbers and check if your mobile number is enabled for receiving money from any UPI app. In case you want to disable this feature, you can click on pause or delete.
+
+I sent money to someone using Amazon? It is not reflecting in their Amazon transaction history. Why is this happening?
+
+Check the status of your transactions. If your transaction is successful, but your contact has not received the money, it could be because your contact has set up their mobile number as UPI number with a different UPI App. Hence, they will always receive money on that app. You can check the UPI ID that you have sent money to from the transaction history.
+
+Why aren't my bank account details being found while setting up Amazon Pay UPI?
+
+The mobile number linked to your bank account may not be the same mobile number that is in use in the phone you use to set up Amazon Pay UPI. If it is not the same, the UPI platform will not be able to fetch your bank account details.
+
+I already have a UPI ID created using another app linked to my bank account. Can I still set up Amazon Pay UPI ID with the same bank account?
+
+Yes, you can set up Amazon Pay UPI ID and link it to the same bank account. You can have multiple UPI IDs linked to the same bank account.
+
+My Amazon Pay UPI payment failed on my Amazon order, how do I proceed?
+
+You will receive an option to retry your payment on your order with a different payment method. If you'd like to use Amazon Pay UPI again, place a new order.
+
+I've changed my mobile number in my phone. Do I need to set up Amazon Pay UPI again?
+
+The mobile number in use in your phone should be same as the mobile number given during setting up Amazon Pay UPI. If the mobile number has changed, set up Amazon Pay UPI again through the Amazon.in app. You will get a new Amazon Pay UPI ID and the old UPI ID will become invalid.
+
+How do I change my primary bank account linked to my Amazon Pay UPI ID?
+
+ To change your Primary bank account - On Amazon Pay dashboard, go to UPI ID tile> under "Your linked bank accounts" - click on the (⋮) option next to your bank account > click on Set as Primary account.
+
+How can I add another bank account linked to the UPI ID created through the Amazon.in app?
+
+From your Amazon.in app, go to Amazon Pay dashboard and select Amazon Pay UPI widget. Scroll down and select option “Add another bank account” and follow the on-screen instructions to add another bank account to your UPI ID created through the Amazon.in app.
+Can Amazon Pay balance be used along with Amazon Pay UPI ID?
+
+Yes, you can use Amazon Pay balance along with Amazon Pay UPI ID.
+
+The UPI ID I entered or the saved UPI ID on my Amazon.in app is no longer valid. How do I send/request money?
+
+If the UPI ID you entered or selected is no longer valid, it will prompt you to manually enter a new UPI ID of the recipient/sender to send/request money.
+
+How do I share transaction details with the recipient after sending money?
+
+You can share transaction details by tapping Share Transaction on the Thank You page post successfully sending money to the recipient.
+
+How do I de-register my Amazon Pay UPI ID?
+
+You can de-register your Amazon Pay UPI by following the steps below: 
+
+Go to Amazon Pay Dashboard -> Amazon Pay UPI tile -> More options -> Deregister Amazon Pay UPI -> Click "De-register". 
+
+Note: This will delete all your Amazon Pay UPI IDs and unlink your bank accounts linked to Amazon Pay UPI. You can setup Amazon Pay UPI again using the same bank account. 

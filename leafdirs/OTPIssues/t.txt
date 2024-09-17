@@ -1,0 +1,91 @@
+OTP is used to add extra layer of security during the sign in process or during delivery of certain orders. OTPs are unique and should not be shared with anyone.
+
+The following Frequently Asked Questions can help you know more about OTP issues:
+
+Table of Contents
+1. Forgot password - sign in with OTP
+2. Did not receive OTP in email or text message
+3. There is a delay in receiving OTP
+4. I cannot receive OTP (Lost email and phone number)
+5. OTP is not valid
+6. Cannot use OTP - Phone number is invalid
+7. How to use OTP for two-step verification
+8. Did not request for an OTP
+9. OTP validation for Pay on Delivery (POD)
+10. Reached the maximum number of attempts for OTP
+11. Secure Delivery with a One-Time Password
+12. How can you find OTP for gift orders?
+13. OTP for writing a review on Amazon
+Forgot password - how to sign in with OTP
+If you are unable to login to your Amazon account due to password issues, you may choose to Login using an OTP.
+
+We can send a one-time password (OTP) that you can use to access your account. You'll need to have access to the email ID or mobile number associated with your amazon.in account to be able to receive the OTP.
+
+Go to Amazon.in/youraccount
+When prompted to sign in, enter either your email ID or mobile number which is registered with Amazon, and click Continue.
+Click "forgot password" and enter your email or phone number. We'll send you a one-time password (a six-digit code) to the registered email ID or mobile number that you entered.
+Type the OTP received and click on continue.
+Enter the new password and click on Save changes and sign in
+Did not receive OTP in email or text message.
+For your security, you must request the one-time password by selecting "Resend code" from the verification screen.
+
+Be sure to check your spam or junk folders to see if our email was mistakenly routed there.
+You might also want to add Amazon to your safe senders list. As another precautionary step, you can contact your ISP or mail service provider to make sure you're able to receive mail from us.
+If you don't have a current mobile phone number on your account, we recommend updating it via the Login & Security option in Your Account.
+
+There is a delay in receiving OTP
+In certain cases, the OTP may be delayed due to network issues. Please wait for 10-15 minutes and try requesting for another OTP by clicking the "Resend OTP" button.
+
+I cannot receive OTP (Lost email and phone number)
+If you have an alternate e-mail address, you can update the same in your account and regain access by following the below steps:
+
+Go to Amazon.in/your account
+Click on Login & security
+You'll be able to use the "Edit" button to update your information.
+If you prefer, you can create a new account with your current e-mail address or mobile number.
+
+OTP is not valid
+It could be that the phone number used on your amazon account is not active. Kindly use a valid phone number for OTP validation.
+
+Click on the "Change number" link on the OTP block to change the number and then click on "Send OTP".
+
+Please remember to use your own number for OTP validation as the number used will be linked to your amazon account.
+
+Cannot use OTP - Phone number is invalid
+It could be that the phone number used on your account is not active. Kindly use a valid an active mobile number for the verification instead.
+
+How to use OTP for two-step verification
+Two-Step Verification is a feature that adds an extra layer of security to your account log-in. When you try to log in, Two-Step Verification sends you a unique security code. When you sign up for Two-Step Verification, you can choose to receive the security code by text message, voice call, or authenticator app.
+
+You need to enter both the code and your password to log in.
+
+To know more about Two-step verification, click here.
+
+Did not request for an OTP
+If you did not make this request, someone may have tried to access your account.
+
+This can happen if someone is trying to sign into your account, or if someone mistyped their email ID or mobile number and it's similar to yours. If you're unsure, the safest option is to change your password to something unique and review your account for unusual activity. For tips on creating a strong password and know more about security, click here.
+
+OTP validation for Pay on Delivery (POD)
+Amazon seeks to verify the phone number of customer's account while placing a Pay on delivery order.
+
+This is a one-time activity and you will not be presented with an OTP option on your subsequent POD orders. An additional benefit of verifying your phone number is that you can login to your account using this phone number and your account password.
+
+Reached the maximum number of attempts for OTP
+This happens when you click send OTP/Resend OTP multiple times and exceeds the number of attempts for a day. Please retry verifying your phone number after 24 hours. In the meantime, if you wish to continue placing your order, please use a prepaid payment method instead.
+
+Secure Delivery with a One-Time Password
+As of now, only select 'Fulfilled by Amazon' and 'Shipped by Amazon' shipments are being delivered using OTP-based delivery method.
+
+If your order falls under secured delivery, you will be informed of OTP-based delivery through the "Dispatch" and "Out for delivery" email, push notification. During the delivery, the delivery associate will hand over the shipment and scan as 'Delivered' only after the recipient verifies the OTP sent by Amazon. Each package will have a different OTP for verification.
+
+The secured delivery OTP will be a 6-digit numeric value. To know more about secured delivery by Amazon, click on here.
+
+Note: 6-digit OTP is different from the 4-digit PIN. You will be prompted to enter the PIN in order to connect to the Delivery associate on their phone.
+How can you find OTP for gift orders?
+Ensure the gift sender has provided the right recipient's phone number on the address while placing order. By doing so, OTP can be triggered to recipient's phone number at the time of delivery.
+
+If you (gift buyer / recipient) are unable to locate the OTP when the delivery associate is at customer's doorstep, request the delivery agent to retrigger OTP on buyer / recipient's mobile numbers via SMS.
+
+OTP for writing a review on Amazon
+In some cases, when a customer tries to write a review, we send customers a one-time password to their choice of email or mobile device associated with their Amazon account. We do this to verify the customer's identity.

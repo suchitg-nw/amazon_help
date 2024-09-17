@@ -1,0 +1,37 @@
+Here are some reasons why tracking information may not be available:
+
+The first package scan may be on arrival at a regional hub near the destination. This is common when the shipping volume is high and packages are processed in bulk. Until this first scan, the carrier may not acknowledge receipt of the package.
+The first package scan may not be until delivery.
+There may be a delay in updates to the tracking database.
+Sometimes, in the first phase of the shipment, an intermediate courier is used, and traceability information isn't available on the site.
+Some parcels, such as standard international deliveries, aren't trackable.
+Marketplace sellers don't always provide Amazon with tracking information for their orders.
+If the estimated delivery date for your parcel has passed and your tracking information hasn't changed, allow an additional day or two for the parcel to be delivered. Usually parcels arrive on or shortly after the estimated delivery date.
+
+Track Your Orders
+Orders Sold and Fulfilled by Amazon
+If no tracking is available and you need to return or exchange your order, wait for the estimated delivery date to pass. You'll be able to return or replace your order by visiting the Online Returns Center.
+
+If the estimated delivery date for your parcel has passed and your tracking information hasn't changed, allow an additional day or two for the parcel to be delivered. Usually parcels arrive on or shortly after the estimated delivery date.
+
+Orders Sold and Fulfilled by Third-Party Sellers
+Seller orders can also be tracked, but only if the seller has shared this information with Amazon and you've chosen a traceable shipping method.
+
+If a "Track package" option is not available, contact the seller as follows :
+
+Go to Your Orders.
+Find your order in the list.
+Select Problem with order.
+Choose your topic from list displayed.
+Select Contact seller.
+Allow two days for the seller to respond. In most cases you'll receive a reply sooner.
+
+To find your courier partner details:
+
+Go to Your Orders.
+Select the order.
+The status of the order will have details of the courier partner.
+If your order is delivered by a third-party courier partner, refer to the table below to contact the courier directly.
+Tracking your Return Orders
+
+Your return order status can be tracked by selecting View Return/Refund Status next to the relevant order. Please visit How to schedule a Return for more information.

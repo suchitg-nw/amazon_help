@@ -1,0 +1,184 @@
+1. What should I do if I do not get prompts to update my device?
+
+Ensure the phone is compatible and eligible for an update.
+Check and make sure the manufacturer has launched an update for the specific model that you have.
+Check if the latest version of Android is already installed.
+Ensure there is enough space available on the phone for the update.
+Make sure you are connected to a Wi-Fi network as the default value will only download the update when connected to Wi-Fi.
+Click on Update Now if an update is ready to be installed.
+Warning: Ensure the battery level is above 50% before applying the update. DO NOT turn OFF or remove the battery from the phone while it is in the process of updating.
+
+2. What should I do if the software update on my phone keeps failing?
+
+Check for the possible solutions below -
+
+Package was not properly installed or extracted. Follow the below steps to ensure the update is downloaded and extracted properly.
+Ensure you have a stable and reliable internet connection.
+Use a Wi-Fi connection if available rather than mobile data.
+Make sure there is at least 3 GB free in your internal storage (not SD card).
+
+Make sure the phone has more than 50% battery.
+
+Download size of the update file is large (over 1 GB) so it might take some time for the update to finish. Ensure you follow the above steps before starting the update to ensure there are no unwanted interruptions causing the update to fail.
+
+Incompatible apps could be interfering with the update process. Wipe the Cache Partition.
+Back up any important data on the phone to a computer or an external device.
+Turn OFF the phone.
+Boot into the Recovery Mode.
+Check the instructions in the user manual as the steps for booting into recovery may vary by manufacturer and model.
+Use the Volume keys to navigate in the Recovery Mode and select Wipe Cache Partition with the Power key.
+Wait for the cache to be deleted.
+Select Reboot System Now.
+Try to push the update again.
+Install the update from the manufacturer PC Suite if wiping the cache partition does not work.
+Connect the phone to a PC.
+Download the PC Suite application from your phone's manufacturer website.
+Try pushing the update from the PC Suite.
+Check for an option to update the firmware on the application.
+Factory reset the device, if the previous steps do not work.
+Back up any important data on the phone to a computer or an external device. Check the phone user manual for specific instructions on how to factory reset it.
+3. What should I do if I have issues syncing my phone to my Google account?
+
+Try the below steps to resync the phone to your Google account.
+
+Manually force a sync
+Go to Settings > Accounts > Google.
+Tap the menu icon in the upper right corner.
+Select Sync now.
+Restart the data connection and phone
+Turn off the mobile data.
+Turn OFF your phone
+Turn your phone ON.
+Enable mobile data and check if the phone is syncing with the Google account.
+Delete and re-add the Google account to your phone.
+Go to Settings > General > Accounts > Google.
+Tap the email address associated with your Google account.
+Tap the Menu button and tap on Remove Account.
+Tap OK.
+Make sure you are connected to a WiFi network.
+Tap Add Account > Google.
+Re-add your account and sync should start with no further issues.
+4. What should I do if the battery life on my phone is low?
+
+There could be a calibration issue because of OS update. Follow the below steps if you have recently update the OS on your phone.
+Let the phone drop to 0% battery and use up all the charge until it automatically shuts off, if you have just updated the phone.
+Recharge the phone completely before using it again.
+Check if the issue persists
+Battery usage may not be optimized.
+Go to Settings > Battery.
+Check the battery graph which will show your battery use since the last charge and the estimation of when you will run out of battery based on current use.
+Once you know your battery usage modify the list of applications that use battery, tap individual apps for more details and recommendations.
+Delete or properly shut down any unknown or unused apps which run on battery.
+Change your phone settings which most impact battery life.
+Display Settings:
+Adjust the brightness
+
+Adjust sleep and wallpaper settings
+
+Set a screen timeout of 30 seconds to 1 minute to improve battery life.
+
+WiFi, GPS and mobile data Settings:
+Disable WiFi, GPS and mobile data when not in use.
+
+Check applications and their configuration, ensure auto-updates and auto synchronization are off as they might drain power from the phone in the background.
+
+Note:
+When you expose the device or the battery to very cold or very hot temperatures, the useful charge may be reduced. Also bear in mind the battery is consumable and the useful charge will get shorter over time.
+
+Enable battery saver.
+Go to Settings > Battery.
+Tap the menu and enable Battery Saver.
+5. What should I do if I have Bluetooth and WiFi connectivity issues on my phone?
+
+Issue with signal or Bluetooth device. Ensure that the signal on the other end is optimal.
+Check with another device if the WiFi or Bluetooth is having the same issue.
+Make sure the Bluetooth device you are trying to connect to is ON and ready to pair.
+Make sure that there is no issue with the WiFi network. Try the below steps
+Restart the device.
+Turn OFF your phone.
+Wait for a few minutes.
+Turn in back ON.
+Check if the issue persists.
+Disable Bluetooth and WiFi, wait for a few seconds and enable them again.
+Forget the network or Bluetooth device and try to reconnect.
+Perform a factory reset, if none of the previous steps work.
+Back up any important data on the phone to a computer or an external device.
+Check the phone user manual for specific instructions on how to factory reset it.
+6. What should I do if my camera app keeps crashing or blacks out?
+
+Issue with connectivity. Enable and disable airplane mode.
+Turn ON Airplane mode.
+Wait for 30 seconds.
+Turn OFF Airplane mode.
+Wait for the phone to register the network
+Go to the camera app and check if the issue persists.
+Restart the phone
+Clear camera app data and cache
+Go to Settings > Applications > Camera
+Click on Storage
+Click on Clear cache and Clear data
+Restart the phone
+Check if the issue persists
+7. What should I do if my phone is randomly rebooting for no reason or boots into Safe Mode?
+
+This could be because the device has not been turned OFF for a long period of time. Restart the device.
+Turn OFF the device and remove the battery, if it is removable.
+Wait for 5 minutes and reinsert the battery, if removed.
+Turn ON the device.
+Check if the issue persists.
+Apps are not updated and are causing the device to repeatedly crash. Update all apps.
+Go to Apps > Playstore.
+Click on the Menu icon and go to My Apps.
+Click on Update All and make sure you are connected to a strong WiFi network while the apps are updating.
+Check if the issue persists
+Clear app data and cache for all applications.
+Eject your SD card, if you have one, restart the phone and check if the issue persists.
+Perform a factory reset.
+Note: Bear in mind that you will lose any information that is not stored in the cloud for the apps you are clearing data and cache for like game scores, stats, etc.
+8. What should I do if I have issues with mobile data connectivity on my phone?
+
+Try the below steps to reconnect to your service provider's network.
+Reboot your device.
+Turn OFF your phone.
+Wait for a minute.
+Turn it back ON.
+Check if the issue persists.
+Enable Airplane mode, wait for a minute and disable it, if reboot does not work.
+Disable and enable mobile data.
+Go to Settings > Network > Mobile Data (or similar).
+Disable Mobile Data.
+Restart the phone.
+Enable mobile data and check if the issue persists.
+Perform a factory reset, if none of the previous steps work.
+There could be an issue from your network service provider's end. Check other networks.
+Check if the issue occurs with a different SIM.
+Contact your network service provider, if required.
+9. What should I do if I experience audio, mic and/or sound issues on my phone?
+
+Check and ensure that there is no dust or debris stuck in the microphone.
+Reconnect to Bluetooth devices.
+Disconnect any Bluetooth device connected to your phone.
+Wait for a few minutes.
+Reconnect to the Bluetooth device.
+Clear the app cache on your phone
+Go to Settings > Storage.
+Select Cached Data and clear it to clear all app caches simultaneously.
+Clear the system cache, if clearing the app cache does not work.
+Boot the device in Recovery Mode.
+Check the user manual for specific instructions as they may vary by make and model.
+Scroll down to highlight Wipe Cache Partition and select it with the Power key.
+Press Yes.
+Reboot the device.
+Factory reset the device if the issue still persists.
+10. What should I do if my phone is lagging/ experiencing performance issues?
+
+The internal memory or RAM may not be optimized. Use the RAM manager tool.
+Go to Settings > Memory.
+Check the RAM manager to see what is slowing down the performance of the device.
+End or uninstall any unwanted applications that are using up the RAM.
+Internal memory is close to being full. Clear up space on the internal memory.
+Wipe the cache partition.
+Boot the device in Recovery Mode. Check the user manual for specific instructions as they may vary by make and model.
+Reboot the device.
+Delete unnecessary files, photos, videos, etc to free up space.
+Perform a factory reset if none of the previous steps work.

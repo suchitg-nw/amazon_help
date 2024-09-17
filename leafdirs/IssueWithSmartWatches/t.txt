@@ -1,0 +1,156 @@
+1. How to pair your smartwatch with your phone?
+
+Refer below for possible solutions:
+
+Connect your smartwatch to its charger to initiate pairing with your phone, with a full battery.
+Go to Google PlayStore for Android and App Store for iOS.
+Tap the Search icon and type the name of the app to be installed.
+Note: Refer to the user manual for specific instructions on what app to be installed to initiate pairing, as they may vary by brand or model.
+Install the app of your smartwatch on your phone.
+Open the smartwatch app on your phone and initiate pairing through the app.
+Note: Refer to the user manual for specific instructions on how to pair your smartwatch with your phone, as they may vary by brand or model.
+2. How to update the app of your smartwatch on your phone?
+
+Go to Google PlayStore for Android / App Store for iOS
+
+Tap your profile icon at the top right corner of the screen.
+Go to Updates.
+Scroll through the pending app updates until you see your smartwatch app.
+Note: Refer to the user manual for the exact name of the smartwatch app, as it may vary by brand or model.
+Tap Update next to the app.
+How to reset your smartwatch?
+
+Refer below for possible solutions:
+
+Disconnect your smartwatch from your phone:
+Open the smartwatch app on your phone.
+Tap Advanced settings > Forget Watch.
+Tap Forget Watch to confirm.
+Remove your smartwatch from Bluetooth memory:
+Go to Settings on the phone your Android smartwatch is connected to.
+Tap Connected devices > Previously connected devices.
+Tap the name of the watch you want to remove
+Note: If you do not see your watch, skip the step below.
+Tap Settings > Forget > Forget device.
+Reset your smartwatch to factory settings:
+
+Note:
+Resetting will delete data from your smartwatch and back up the data before
+
+proceeding further.
+
+Swipe down from the top of your smartwatch screen.
+Tap Settings > System.
+Note: On some watches, you need to swipe left to see this option.
+Scroll down and tap Disconnect and reset.
+Note: If you do not see this option, tap Unpair with phone.
+Tap Done to confirm.
+Set up your smartwatch and phone again:
+
+Open the app of your smartwatch on your phone.
+Initiate pairing through the app.
+Note: Refer to the user manual for specific instructions on how to pair your smartwatch with your phone, as they may vary by brand or model
+What should I if my smartwatch won't turn ON?
+
+Refer below for possible solutions:
+
+The charger of your smartwatch may not be receiving power. Connect your smartwatch charger to a working power outlet
+Your smartwatch may not be turned ON. Turn ON your smartwatch
+Note: Refer to the user manual for the exact location of the Power button on the smartwatch, as they may vary by brand or model.
+Your smartwatch battery may have run out of charge. Connect your smartwatch to the charger and allow it to charge for 30 minutes
+Your charging cable may not be working. Charge your smartwatch using a different charging cable.
+The charging pins and charging dock of your Android smartwatch may be dirty. Charge your smartwatch using a different charging cable.
+What Should I do when my smartwatch hangs while in use?
+
+Refer below for possible solutions:
+
+Update the smartwatch software.
+Swipe down from the top of your smartwatch screen.
+Go to Settings > System > About > System Updates. If your system is not up to date, it will prompt you to download the latest software available.
+Tap Download and follow the on-screen instructions.
+Lower the brightness of your Android smartwatch screen may be high.
+Swipe down from the top of your smartwatch screen.
+Go to Settings > Display > Adjust brightness.
+Tap the minus (-) icon to lower the brightness
+Block notifications on your smartwatch.
+Open the app of your smartwatch on your phone.
+Scroll down to Settings.
+Go to Notifications > Block app notifications.
+Block all apps that you are currently receiving notifications from.
+Tap Add more + to block more app.
+Turn OFF GPS on your smartwatch (for smartwatches with GPS feature).
+Swipe down from the top of your smartwatch screen.
+Go to Settings > Connectivity.
+Scroll to Location and toggle the switch to turn OFF
+Remove unwanted apps.
+Swipe down from the top of your smartwatch screen.
+Go to Settings > Apps.
+Scroll down to the app that needs to be uninstalled and open it.
+Tap Uninstall.
+Reset your smartwatch.
+Disconnect your smartwatch from your phone (for all smartwatch brand):
+Open the smartwatch app on your phone.
+Tap Advanced settings > Forget watch.
+Tap Forget watch to confirm.Remove your smartwatch from Bluetooth memory:
+Go to Settings on the phone your Android smartwatch is connected to.
+Tap Connected devices > Previously connected devices
+Tap the name of the watch you want to remove.
+Note: If you do not see your watch, skip the step below.
+Tap Settings > Forget > Forget device. Reset your smartwatch to factory settings:
+Note: Resetting will delete data from your smartwatch and back up the data before proceeding further
+Swipe down from the top of your smartwatch screen
+Tap Settings > System
+Note: On some watches, you need to swipe left to see this option.
+Scroll down and tap Disconnect and reset.
+Note: If you do not see this option, tap Unpair with phone.
+Tap Done to confirm. Set up your smartwatch and phone again:
+Open the app of your smartwatch on your phone
+Initiate pairing through the app.
+Note: Refer to the user manual for specific instructions on how to pair your smartwatch with your phone, as they may vary by brand or model.
+Disable Always-on Display mode.
+Swipe down from the top of your smartwatch screen.
+Tap Settings > Display.
+Note: On some watches, you may need to swipe left to see the Settings option.
+Tap Always-on Display to turn it OFF.
+What should I do if I am unable to connect my smartwatch to Wi-Fi?
+
+Refer below for possible solutions:
+
+Reset your router or modem.
+Re-pair the network with your smartwatch.
+Disconnect the power cable of the router and modem from the power outlet.
+Wait for 30 seconds.
+Connect the power cable of the router and modem back to the power outlet to re-pair the network with your smartwatch.
+Reconnect or pair your smartwatch with your phone.
+For iOS devices:
+Download your smartwatch app from the App Store.
+Tap Allow to give your phone access to your smart watch.
+Select your preferred language.
+Select the name of your smartwatch.
+Tap Pair to connect your smart watch to your iPhone via Bluetooth.
+Follow the prompt on your phone to copy your Google accounts to your smartwatch and allow it access, sync your contacts and calendar, allow the app access to your calls and texts.
+Allow your smart watch to display notifications sent from your phone.
+For Android devices:
+Download your smartwatch app from Google Play Store.
+Tap Allow to give your phone access to your smartwatch.
+Select your preferred language.
+Select the name of your smartwatch.
+Tap Pair to connect your smart watch to your phone via Bluetooth.
+Follow the prompt on your phone to copy your Google accounts to your smartwatch and allow it access, sync your contacts and calendar, allow the app access to your calls and texts.
+Allow your smartwatch to display notifications sent from your phone.
+Disable Airplane mode, if it is switched on.
+Swipe down from the top of your smartwatch screen.
+Tap Settings > Connectivity.
+Scroll down and tap Airplane mode to turn it OFF.
+Check if your smartwatch and router are within the network range.
+What should I do if my smartwatch keeps overheating while in use?
+
+Refer below for possible solutions:
+
+Update the smartwatch software
+Lower the brightness.
+Block notifications on your smartwatch.
+Turn OFF GPS.
+Remove unwanted apps.
+Disable Always-on Display mode.
+Allow your smartwatch to cool down.

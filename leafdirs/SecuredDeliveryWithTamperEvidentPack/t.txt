@@ -1,0 +1,13 @@
+About Tamper-Evident Packaging
+Tamper-evident bags have unique package IDs. We pack your items securely inside these bags. The package ID is an alpha-numeric code that helps you to identify your order. If you suspect tampering, you can reject a package at the time of delivery.
+
+We send your unique package ID via email and push notification when your order is out for delivery. You can also view the ID by selecting Track Package in Your Orders.
+
+Before You Accept a Package
+Check for the following before you accept a package:
+
+The package ID matches the one we sent to you.
+The security numbering at the edges of the bag is visible and clear.
+The center line between the blue sealing tapes is not pink, except at the edges.
+Note: If the center line is pink, the package may have been tampered with. Don't accept delivery of this package.
+The blue sealing tape does not show the word, "Tampered."
