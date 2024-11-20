@@ -1,0 +1,43 @@
+How to return an item you have ordered
+On Amazon Shopping App: 	On Amazon.in website on Desktop :
+
+    Select Orders in the app Menu.
+    Select the completed order that you need to create a return for.
+    Scroll down to reach the section Need help with your item.
+    Select Return item. Please note: Some items cannot be returned or replaced so you will not find the option in the order details. To know more about our returns policy, select here.
+    Enter the Reason for return and Tell us more. You can also add more items to the same return.
+    Select Continue.
+    Choose the refund mechanism under How can we make it right. Continue.
+    Choose the pickup address date and time. That’s it, your return pickup is scheduled.
+
+	
+
+    Select Returns & Orders on the top menu bar.
+    Scroll to select the item that you want to return.
+    Select Return and enter the Reason for return and Tell us more.
+    Select Continue.
+    Choose the refund mechanism under How can we make it right. Select continue.
+    Choose the pickup address date and time. That’s it, your return is scheduled. Select confirm.
+
+Note: In case you're trying to return a smartphone, then you'll be prompted to install a diagnostic app to validate the defect. Based on the outcome of the app troubleshooting, we will provide the next course of action.
+	
+Frequently Asked Questions:
+
+1. Do I need to print any return documentation?
+
+No, you do not.
+
+2. My return item has reached Amazon.
+
+A refund request will be initiated for your order when the returned package is received by Amazon.
+
+To check the status of your refund, select the relevant order and select View Return/Refund Status.
+Your Orders
+
+3. My return item is a Pay on Delivery order.
+
+You can choose a refund to Amazon Pay balance or through NEFT to Bank Account. For NEFT to Bank Account, you'll need to add a bank account for refund.
+
+4. My return item is an electronic device. What should I do?
+
+If your return electronic device stores any personal information, please ensure that you have removed all such personal information from the device prior to returning. Amazon shall not responsible for any misuse or usage of such information.

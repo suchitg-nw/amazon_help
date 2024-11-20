@@ -1,0 +1,69 @@
+About Refunds
+
+Find more details about refund for your returned orders and refund timelines for different payment methods. To view the below information in your preferred regional language, click the link: English, हिन्दी (Hindi), தமிழ் (Tamil), తెలుగు (Telugu), ಕನ್ನಡ (Kannada), മലയാളം (Malayalam), मराठी (Marathi), বাংলা (Bengali).
+Topics in this page:
+
+    Refund timelines
+    Amazon Pay Later Refunds
+    Refunds related to EMI plans
+
+IN_en - How long do refunds take - English
+IN_en - How long do refunds take - English
+IN_hi - How long do refunds take - Hindi
+IN_hi - How long do refunds take - Hindi
+Refund Timelines
+
+A refund will be initiated for your returned or cancelled orders, once the returned package is received by Amazon. Refund requests are processed by Amazon within 13 days of successful pickup. Refer to below table to know about time taken for refund to be processed, after Amazon has initiated the refund request.
+
+To check the status of your refund, click on the relevant order and select View Return/Refund Status.
+Your Orders
+
+Payment Method for Refund 	Time taken for Refund to be processed (For Amazon Fulfilled and Seller Fulfilled orders)
+Prepaid Orders
+Amazon Pay Balance 	Up to 4 hours (Visit his Help page to Learn more about Amazon Pay Balance)
+Credit/Debit Card 	Up to 5 Working Days
+Net Banking (Credited to Bank Account) 	Up to 5 Working Days
+UPI Linked Bank Account 	Up to 5 Working Days
+Pay on Delivery Orders
+Transfer to Bank Account (NEFT) 	
+Amazon Pay Balance 	Up to 4 hours (Visit his Help page to Learn more about Amazon Pay Balance)
+Paper Cheque 	Up to 10 Working Days
+
+
+Note:
+
+    If the refund processing time is up to 5 working days, you must wait until the end of 5th working day for a refund update. Working days exclude bank holidays.
+    Refund will be processed to the original payment method used for placing the order or to your Amazon Pay Balance, based on your preference.
+    If the refund is issued to your credit card account, your card provider may take additional time to update the statement. Please check your latest credit card statement to confirm the refund, it would be visible under 'Unbilled Transactions' section. If you do not see the 'Unbilled Transactions' section in your credit card statement, please contact your card provider for the refund confirmation.
+
+Bank account for Refund - If you wish to receive the refund in your bank account, make sure to add/update the correct bank account details for refunds to be successfully processed. Follow below steps to add a bank account for refund:
+
+To add your bank account through website,
+
+    Go to Your Orders
+    Click on the order you want to return
+    Select Return or Replacement items option
+    Select ‘Refund to your bank account’
+    Select ‘Choose a bank account’
+    Select ‘Add a new bank account’, and enter your bank account details
+
+Refund for Seller Fulfilled Orders:
+
+    Any refund for a orders sold and shipped by our seller partners needs to be initiated by the seller directly. Visit Seller fulfilled orders help page to learn more about contacting sellers.
+    The terms and conditions of refunds may vary from seller to seller and is available on Seller details page. You can access it by selecting Seller name on the product page.
+    All seller fulfilled orders are covered by our A-to-Z Guarantee. Our Guarantee offers reimbursement and protection for instances when a seller is unable to resolve a missing or incorrect order. Visit A-to-Z guarantee Help page to learn more.
+
+Amazon Pay Later Refunds
+
+    If you have not paid any installment for the returned product, then on returning, we will credit your Amazon Pay Later limit with the total order value.
+    If you've already made a payment, we will credit the amount back to your bank account, along with reinstating your credit limit.
+    Visit Amazon Pay later help page to learn more
+
+Refunds for products purchased with EMI plans
+
+If you've already paid an EMI, the amount paid as EMI will be refunded to your credit card and the loan will be cancelled. Visit Easy Monthly Installments (EMI) Help Page to learn more.
+Note: For more details about your EMI closure
+
+    Bajaj Finserv (BFL Card): Contact Bajaj Finserv for details about EMI closure. You can also write to BFL on wecare@bajajfinserv.in
+    Any other credit card: Contact the card issuing bank for details on EMI closure. Your card issuing bank may charge nominal pre-closure charges in case you've already paid an EMI.
+

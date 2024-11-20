@@ -1,0 +1,31 @@
+Note: Return/Refund status will only be visible on orders for which you have initiated a return.
+
+To check the status of your refund:
+
+    Go to Your Orders
+    For desktop: Next to the relevant order, select View Return/Refund Status.
+    For mobile: Tap the order you have initiated return and select View Return/Refund Status.
+    You will be directed to the Refund tracker where you can see the latest updates regarding your returned item.
+
+You can also check the status of your refund by going to Your Orders and selecting View order details next to the relevant order. The refund status is displayed at the bottom of the Order Summary.
+
+Note: There might be instances where you have cancelled the order before delivery or rejected an order at the time of delivery or an order has been cancelled by Amazon. If you have already paid for it, a refund will be initiated to your original payment method by Amazon within 24 hours and processed as per the timelines mentioned below. You will be notified about your refund status through email. To check the status of refund on cancelled/rejected/undelivered orders, go to Amazon Pay and click on Refunds in Your Transactions.
+
+
+
+Refund method 	Refund Time-frame
+Amazon Delivered orders (After the return is received by Amazon) 	Seller-Fulfilled orders (After seller notifies Amazon of receipt of return)
+Prepaid Orders
+Amazon Pay Balance 	Up to 4 hours
+Credit/Debit Card 	Up to 5 Working Days 	Up to 5 Working Days
+Net Banking (Credited to Bank Account)
+UPI Linked Bank Account 	Up to 5 Working Days
+Pay on Delivery Orders
+NEFT to Bank Account 	Up to 5 Working Days 	Up to 5 Working Days
+Amazon Pay Balance 	Up to 4 hours
+Paper Cheque 	Up to 10 Working Days
+
+Note:
+
+    Please note that the refund is initiated by Amazon only once the item is picked up and reaches our Fulfilment Center. Please read our Returns Policy for more details.
+    If you haven’t received your refund within the time frames mentioned above, please reach out to your bank with RRN (Refund Reference Number) displayed in the Refunds section in the Transactions history. 

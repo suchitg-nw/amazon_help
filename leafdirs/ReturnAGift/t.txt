@@ -1,0 +1,26 @@
+There are 2 ways in which you can return a gift:
+
+    Using order number.
+    Using a gift receipt (A gift receipt is a proof of purchase provided to the gift recipient).
+
+To return a gift using Order number:
+
+    Go to the Gift Returns. If prompted, sign in to your Amazon account. If you don't have an account, you'll need to create one.
+    Enter the order number for the item you want to return.
+
+    Note: You can find your 17-digit order number or Order ID, for example, 123-1234567-1234567, on the packing slip that came with the item.
+    Select the item you want to return, choose a return reason, and select Continue. For certain items with replacement only policy (Smartphones, TV, Refrigerators, Washing machine, Laptops etc.), you can get a replacement after verification of the issue.
+    Choose how you'll return the item. A Return Confirmation with instructions about how to send the item back is displayed. In case of refund on return, we'll initiate the refund to the gift giver when we receive and process the return package. It typically takes five to ten business days for the return item to reach our fulfilment center.
+
+To return a gift using a gift receipt:
+
+    Visit the website link on the gift receipt. The gift receipt needs to be shared by the gift giver. Check your email, chat or SMS to find out the link shared by the gift giver.
+    You will find the option to Return or replace the item once you open the link. Follow the instructions to complete your return.
+
+Note:
+
+    Alternatively, gift recipients can return their items using gift receipts, shared by the gift giver.
+    For items eligible for refund as per return policy, you can return gift items for a refund only.
+    Before you return items on which you've saved personal information, erase this information completely. Amazon is not responsible for any use or misuse of such information.
+    If you're a gift recipient and can't return a gift through our Returns Center, contact us so we can assist you with the return.
+

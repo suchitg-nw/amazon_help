@@ -1,0 +1,31 @@
+Return orders placed with a Third-party (Marketplace) seller
+
+You can easily return orders which are sold and shipped by a marketplace seller and are still within the return window.
+
+To view in your preferred language, locate the country flag on top banner and use the drop down to select the language.
+
+To check the status of your return or refund, click on the relevant order and select View Return/Refund Status.
+Your Orders
+
+You can find seller details for any product on the product details page. You can also view if the product is Shipped "by seller" or "Amazon" on product details page.
+
+If the product is shipped and delivered by Amazon, you'll find the following logo below the product details:
+
+
+
+Visit below help pages to know more:
+
+    Shipped by Amazon (Amazon fulfilled orders)
+    Shipped by Seller (Seller-fulfilled orders)
+
+To return a seller fulfilled order, you will need to raise a return request with the seller. You can contact the seller and arrange for the return pick-up, once return is approved by the seller. Follow below steps to start the return request:
+
+    Go to "Your Orders"
+    Choose an item that you want to return or replace
+    Select "Contact seller". You will be directed to the Seller Messaging Assistant
+    Select the appropriate option and start the conversation
+
+Note: When you order from a marketplace seller who fulfills and delivers the products, your return is sent back to the seller. Some seller return policies may vary. You can view the return policy of the seller before you purchase an item available on the seller profile page.
+
+A-to-z Guarantee claim : If the seller does not provide enough information to return your items or fails to address your query in three business days, you may file an A-to-z Guarantee claim to seek help with your return. The A-to-z Guarantee protects you, when you buy items sold and fulfilled by a marketplace seller. Visit A-to-z Guarantee help page to learn more.
+Note: To return orders fulfilled by Amazon Visit How to schedule a Return
